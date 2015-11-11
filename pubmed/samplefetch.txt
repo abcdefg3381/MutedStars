@@ -1,0 +1,276 @@
+PMID- 18412144
+OWN - NLM
+STAT- MEDLINE
+DA  - 20090707
+DCOM- 20100301
+IS  - 1932-8737 (Electronic)
+IS  - 0160-9289 (Linking)
+VI  - 32
+IP  - 6
+DP  - 2009 Jun
+TI  - Quantification of myocardial iron overload by cardiovascular magnetic
+      resonance imaging T2* and review of the literature.
+PG  - E55-9
+AB  - Heart failure due to myocardial iron overload remains the leading cause of
+      death in patients with transfusion-dependent anemias. Iron
+      overload-induced cardiomyopathy is reversible if intensive chelation
+      therapy is instituted on time. Thus, early detection of myocardial iron
+      deposition is imperative to prevent overt heart failure. Conventional
+      cardiac monitoring, including physical examination, electrocardiography,
+      echocardiography or serum ferritin levels fail to predict manifest or
+      subclinical myocardial involvement resulting from iron overload.
+      Cardiovascular magnetic resonance imaging T2* (cMRI-T2*, pronounced T2
+      star) times correlate well with myocardial iron levels. This timely review
+      focuses on the utility of cMRI-T2*, for the preclinical detection of
+      myocardial iron overload and monitoring of myocardial iron content during
+      chelation therapy.
+CI  - 2008 Wiley Periodicals, Inc.
+AD  - Department of Cardiology, Wayne State University, Detroit Medical Center,
+      Detroit, Michigan, USA.
+FAU - Kondur, Ashok K
+AU  - Kondur AK
+FAU - Li, Tao
+AU  - Li T
+FAU - Vaitkevicius, Peter
+AU  - Vaitkevicius P
+FAU - Afonso, Luis
+AU  - Afonso L
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PT  - Review
+PL  - United States
+TA  - Clin Cardiol
+JT  - Clinical cardiology
+JID - 7903272
+RN  - 0 (Iron Chelating Agents)
+RN  - 70-51-9 (Deferoxamine)
+SB  - IM
+MH  - Animals
+MH  - Blood Transfusion/*adverse effects
+MH  - Cardiomyopathies/*diagnosis/drug therapy/etiology/metabolism
+MH  - Deferoxamine/administration & dosage
+MH  - Early Diagnosis
+MH  - Female
+MH  - Heart Failure/*diagnosis/drug therapy/etiology/metabolism
+MH  - Hemosiderosis/*diagnosis/drug therapy/etiology/metabolism
+MH  - Humans
+MH  - Iron Chelating Agents/administration & dosage
+MH  - Magnetic Resonance Imaging
+MH  - Middle Aged
+MH  - Myocardium/metabolism/*pathology
+MH  - Predictive Value of Tests
+MH  - Treatment Outcome
+RF  - 19
+EDAT- 2008/04/17 09:00
+MHDA- 2010/03/02 06:00
+CRDT- 2008/04/17 09:00
+AID - 10.1002/clc.20310 [doi]
+PST - ppublish
+SO  - Clin Cardiol. 2009 Jun;32(6):E55-9.
+
+PMID- 18233984
+OWN - NLM
+STAT- MEDLINE
+DA  - 20080131
+DCOM- 20080506
+IS  - 1540-8159 (Electronic)
+IS  - 0147-8389 (Linking)
+VI  - 31
+IP  - 2
+DP  - 2008 Feb
+TI  - Implantable cardioverter defibrillators save lives from lightning-related
+      electrocution too!
+PG  - 256-7
+AB  - We report an unusual case of a 75-year-old male electrocuted by lightning
+      strike rescued by implantable cardioverter defibrillator (ICD) shock
+      coincidentally. Lightning strikes are an unusual cause of fatal cardiac
+      arrhythmias. Depending on the amount of energy and the current vector
+      affecting the heart, the arrhythmia burden ranges from asystole to
+      ventricular fibrillation.
+AD  - Department of Cardiology, Wayne State University, Detroit, Michigan, USA.
+FAU - Kondur, Ashok K
+AU  - Kondur AK
+FAU - Afonso, Luis C
+AU  - Afonso LC
+FAU - Berenbom, Loren D
+AU  - Berenbom LD
+FAU - Lakkireddy, Dhanunjaya R
+AU  - Lakkireddy DR
+LA  - eng
+PT  - Case Reports
+PT  - Journal Article
+PL  - United States
+TA  - Pacing Clin Electrophysiol
+JT  - Pacing and clinical electrophysiology : PACE
+JID - 7803944
+SB  - IM
+MH  - Aged
+MH  - *Defibrillators, Implantable
+MH  - Humans
+MH  - *Lightning Injuries
+MH  - Male
+MH  - Ventricular Fibrillation/*etiology/*therapy
+EDAT- 2008/02/01 09:00
+MHDA- 2008/05/07 09:00
+CRDT- 2008/02/01 09:00
+AID - PACE980 [pii]
+AID - 10.1111/j.1540-8159.2007.00980.x [doi]
+PST - ppublish
+SO  - Pacing Clin Electrophysiol. 2008 Feb;31(2):256-7.
+
+PMID- 17372807
+OWN - NLM
+STAT- MEDLINE
+DA  - 20070320
+DCOM- 20070612
+LR  - 20091118
+IS  - 1525-1497 (Electronic)
+IS  - 0884-8734 (Linking)
+VI  - 22
+IP  - 4
+DP  - 2007 Apr
+TI  - Improving death certificate completion: a trial of two training
+      interventions.
+PG  - 544-8
+AB  - The death certificate is an important medical document that impacts
+      mortality statistics and health care policy. Resident physician accuracy
+      in completing death certificates is poor. We assessed the impact of two
+      educational interventions on the quality of death certificate completion
+      by resident physicians. Two-hundred and nineteen internal medicine
+      residents were asked to complete a cause of death statement using a sample
+      case of in-hospital death. Participants were randomized into one of two
+      educational interventions: either an interactive workshop (group I) or
+      provided with printed instruction material (group II). A total of 200
+      residents completed the study, with 100 in each group. At baseline,
+      competency in death certificate completion was poor. Only 19% of residents
+      achieved an optimal test score. Sixty percent erroneously identified a
+      cardiac cause of death. The death certificate score improved significantly
+      in both group I (14+/-6 vs 24+/-5, p<0.001) and group II (14+/-5 vs
+      19+/-5, p<0.001) postintervention from baseline. Group I had a higher
+      degree of improvement than group II (24+/-5 vs 19+/-5, p<0.001). Resident
+      physicians' skills in death certificate completion can be improved with an
+      educational intervention. An interactive workshop is a more effective
+      intervention than a printed handout.
+AD  - Mid America Cardiology, University of Kansas, KU Medical Center, Kansas
+      City, KS 66160, USA.
+FAU - Lakkireddy, Dhanunjaya R
+AU  - Lakkireddy DR
+FAU - Basarakodu, Krishnamohan R
+AU  - Basarakodu KR
+FAU - Vacek, James L
+AU  - Vacek JL
+FAU - Kondur, Ashok K
+AU  - Kondur AK
+FAU - Ramachandruni, Srikanth K
+AU  - Ramachandruni SK
+FAU - Esterbrooks, Dennis J
+AU  - Esterbrooks DJ
+FAU - Markert, Ronald J
+AU  - Markert RJ
+FAU - Gowda, Manohar S
+AU  - Gowda MS
+LA  - eng
+PT  - Comparative Study
+PT  - Journal Article
+PT  - Randomized Controlled Trial
+PL  - United States
+TA  - J Gen Intern Med
+JT  - Journal of general internal medicine
+JID - 8605834
+SB  - IM
+MH  - Adult
+MH  - *Death Certificates
+MH  - Education
+MH  - Female
+MH  - *Hospital Mortality
+MH  - Humans
+MH  - Internal Medicine/*education
+MH  - *Internship and Residency
+MH  - Male
+MH  - Questionnaires
+PMC - PMC1839864
+OID - NLM: PMC1839864
+EDAT- 2007/03/21 09:00
+MHDA- 2007/06/15 09:00
+CRDT- 2007/03/21 09:00
+AID - 10.1007/s11606-006-0071-6 [doi]
+PST - ppublish
+SO  - J Gen Intern Med. 2007 Apr;22(4):544-8.
+
+PMID- 15686793
+OWN - NLM
+STAT- MEDLINE
+DA  - 20050202
+DCOM- 20050526
+LR  - 20060712
+IS  - 0167-5273 (Print)
+IS  - 0167-5273 (Linking)
+VI  - 98
+IP  - 2
+DP  - 2005 Feb 15
+TI  - Cardiac troponin I release in non-ischemic reversible myocardial injury
+      from acute diphtheric myocarditis.
+PG  - 351-4
+AB  - Cardiac troponins are highly specific markers of myocardial injury. It has
+      been suggested that, unlike other markers of myocardial injury, troponins
+      could be released in reversible myocardial injury and the myocardial
+      necrosis does not have to occur for troponins to be released from
+      myocytes. Reversibly injury related changes in myocyte membrane are
+      considered sufficient for the release of cardiac troponins from the free
+      cytosolic pool, whereas in case of irreversible myocardial injury the
+      source of troponin release is the structural damage of the myocytes.
+      Diphtheria is a localized infection of skin and mucous membranes with
+      multi-system involvement caused by gram-positive aerobic rod
+      Corynebacterium diphtheriae. The cardiac involvement in diphtheria is
+      characterized by severe impairment of cardiac contractility. The
+      myocardial injury induced by diphtheric toxins could be completely
+      reversible with successful treatment. We report a case of diphtheric
+      myocarditis in a 20-year-old female who presented with complaints of
+      dysphagia, dysphonia, fatigue, generalized malaise and severe dyspnea. She
+      developed severe left ventricular systolic dysfunction (ejection fraction
+      10%) with markedly elevated serum levels of cardiac troponin I (peak 48.5
+      ng/ml). Within a few days on treatment, the cardiac function became
+      completely normal (left ventricular ejection fraction 60%) and the
+      elevation in serum level of cardiac troponin I resolved. This case
+      supports the notion that cardiac troponin I could be released in
+      reversible myocardial injury and that in such case the recovery of
+      myocardial function is independent of serum levels of cardiac troponin I
+      measured during the acute phase of illness.
+FAU - Lakkireddy, Dhanunjaya R
+AU  - Lakkireddy DR
+FAU - Kondur, Ashok K
+AU  - Kondur AK
+FAU - Chediak, Ellie J
+AU  - Chediak EJ
+FAU - Nair, Chandra K
+AU  - Nair CK
+FAU - Khan, Ijaz A
+AU  - Khan IA
+LA  - eng
+PT  - Case Reports
+PT  - Letter
+PL  - Ireland
+TA  - Int J Cardiol
+JT  - International journal of cardiology
+JID - 8200291
+RN  - 0 (Troponin I)
+SB  - IM
+MH  - Acute Disease
+MH  - Adult
+MH  - Diphtheria/complications
+MH  - Female
+MH  - Humans
+MH  - Myocarditis/*blood/etiology
+MH  - Troponin I/blood/*secretion
+MH  - Ventricular Dysfunction, Left/blood
+EDAT- 2005/02/03 09:00
+MHDA- 2005/05/27 09:00
+CRDT- 2005/02/03 09:00
+PHST- 2003/06/26 [received]
+PHST- 2003/10/28 [accepted]
+AID - S0167527304000865 [pii]
+AID - 10.1016/j.ijcard.2003.10.062 [doi]
+PST - ppublish
+SO  - Int J Cardiol. 2005 Feb 15;98(2):351-4.
+

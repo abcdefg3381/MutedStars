@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD eSearchResult, 11 May 2002//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSearch_020511.dtd">
+<eSearchResult>
+	<Count>269</Count>
+	<RetMax>1</RetMax>
+	<RetStart>0</RetStart>
+	<QueryKey>1</QueryKey>
+	<WebEnv>NCID_1_83017926_130.14.22.148_9001_1279789493_472779677</WebEnv>
+	<IdList>
+		<Id>20516137</Id>
+	</IdList>
+	<TranslationSet />
+	<TranslationStack>
+		<TermSet>
+			<Term>"germain rn"[au]</Term>
+			<Field>au</Field>
+			<Count>271</Count>
+			<Explode>Y</Explode>
+		</TermSet>
+		<TermSet>
+			<Term>1975[PDAT]</Term>
+			<Field>PDAT</Field>
+			<Count>0</Count>
+			<Explode>Y</Explode>
+		</TermSet>
+		<TermSet>
+			<Term>2010[PDAT]</Term>
+			<Field>PDAT</Field>
+			<Count>0</Count>
+			<Explode>Y</Explode>
+		</TermSet>
+		<OP>RANGE</OP>
+		<OP>AND</OP>
+		<OP>GROUP</OP>
+	</TranslationStack>
+	<QueryTranslation>"germain rn"[au] AND 1975[PDAT] : 2010[PDAT]</QueryTranslation>
+</eSearchResult>

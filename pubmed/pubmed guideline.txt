@@ -1,0 +1,7 @@
+esearch:
+
+http://www.ncbi.nlm.nih.gov/entrez/eutils/esearch.fcgi?db=Pubmed&retmax=1&usehistory=y&term=("penney jb jr"[au] AND 1975:2010[dp])
+
+efetch:
+
+http://www.ncbi.nlm.nih.gov/entrez/eutils/efetch.fcgi?rettype=medline&retmode=text&restart=0&db=Pubmed&retmax=3&query_key=1&WebEnv=*

@@ -1,0 +1,37 @@
+David Hubel;Harvard University;Systems Neuroscience;1971;mammaliean visual cortex
+Jacob Nachmias;University of Pennsylvania;Psychology;1984;visual perception, psychophysics
+Peter Marler;University of California, Davis;Psychology;1971;
+Eleanor Maccoby;Stanford University;Psychology;1993;family interaction, gender development
+John Garcia;University of California, Los Angeles;Psychology;1983
+John Flavell;Stanford University;Psychology;1994;theory of mind development in children
+William Estes;Indiana University;Psychology;1963;
+Roderick Clayton;Cornell University;Plant Biology;1977
+Avram Goldstein;Stanford University;Physiology and Pharmacology;1980;
+Howard Bern;University of California, Berkeley;Physiology and Pharmacology;1973;comparative and developmental endocrinology, environmental endocrine disruption, caudal neurosecretory system of fishes
+Donald Zilversmit;Cornell University;Medical Physiology and Metabolism;1989;nutrition before retirement
+Joseph Murray;Harvard University;Medical Physiology and Metabolism;1993;
+Seymour Lieberman;St. Luke's-Roosevelt Institute for Health Sciences;Medical Physiology and Metabolism;1977;steroid hormone biochemistry
+Clement Finch;University of Washington;Medical Physiology and Metabolism;1974;
+Mary Ellen Avery;Harvard University;Medical Physiology and Metabolism;1994;
+William Valentine;University of California, Los Angeles;Medical Genetics, Hematology, and Oncology;1977;internal medicine, subspecialty hematology
+Peter Nowell;University of Pennsylvania;Medical Genetics, Hematology, and Oncology;1976;cancer cytogenetics, immunology
+John Littlefield;Johns Hopkins University;Medical Genetics, Hematology, and Oncology;1977;
+Julian Wolpert;Princeton University;Human Environmental Sciences;1977
+Norton Zinder;The Rockefeller University;Genetics;1969;microbiology, bioterrorism, genetics, chemical warfare
+Andrew Fire;Stanford University;Genetics;2004;
+Bruce Wallace;Virginia Polytechnic Institute and State University;Evolutionary Biology;1970;
+Robert Selander;Pennsylvania State University;Evolutionary Biology;1982;molecular population genetics of pathogenic bacteria
+Eville Gorham;University of Minnesota, Minneapolis;Environmental Sciences and Ecology;1994;peat land ecology and biogeochemistry, lake water and sediment chemistry, acid rain
+Wilford Gardner;University of California, Berkeley;Environmental Sciences and Ecology;1983;
+John Cairns;Virginia Polytechnic Institute and State University;Environmental Sciences and Ecology;1991;sustainable use of planet, ecotoxicology, eco-ethics
+Sheldon Penman;Massachusetts Institute of Technology;Cellular and Developmental Biology;1986;imaging, optical studies, biophysics
+Oscar Miller;University of Virginia;Cellular and Developmental Biology;1978;visualization of structural aspects of genetic activity by electron microscopy
+Jerome Gross;Harvard University;Cellular and Developmental Biology;1974;regeneration, tissue repair, self assembly
+Walther Stoeckenius;University of California, San Francisco;Biophysics and Computational Biology;1978;
+John Schellman;University of Oregon;Biophysics and Computational Biology;1982;solution thermodynamics, protein stability
+Terrell Hill;University of Oregon;Biophysics and Computational Biology;1965;statistical mechanics, thermodynamics, theoretical molecular biophysics
+George Feher;University of California, San Diego;Biophysics and Computational Biology;1975;
+Audrey Stevens Niyogi;Oak Ridge National Laboratory;Biochemistry;1998;
+Joseph Kraut;University of California, San Diego;Biochemistry;1988
+Paul Doty;Harvard University;Biochemistry;1957
+G. Gilbert Ashwell;National Institutes of Health;Biochemistry;1979;glycoproteins, synthesis, structure, function

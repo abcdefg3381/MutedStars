@@ -1,0 +1,37 @@
+<?xml version="1.0" ?>
+<!DOCTYPE eSearchResult PUBLIC "-//NLM//DTD eSearchResult, 11 May 2002//EN" "http://www.ncbi.nlm.nih.gov/entrez/query/DTD/eSearch_020511.dtd">
+<eSearchResult>
+	<Count>69</Count>
+	<RetMax>1</RetMax>
+	<RetStart>0</RetStart>
+	<QueryKey>1</QueryKey>
+	<WebEnv>NCID_1_70062425_130.14.18.46_9001_1279077029_1334428588</WebEnv>
+	<IdList>
+		<Id>12191502</Id>
+	</IdList>
+	<TranslationSet />
+	<TranslationStack>
+		<TermSet>
+			<Term>"penney jb jr"[au]</Term>
+			<Field>au</Field>
+			<Count>73</Count>
+			<Explode>Y</Explode>
+		</TermSet>
+		<TermSet>
+			<Term>1975[PDAT]</Term>
+			<Field>PDAT</Field>
+			<Count>0</Count>
+			<Explode>Y</Explode>
+		</TermSet>
+		<TermSet>
+			<Term>2010[PDAT]</Term>
+			<Field>PDAT</Field>
+			<Count>0</Count>
+			<Explode>Y</Explode>
+		</TermSet>
+		<OP>RANGE</OP>
+		<OP>AND</OP>
+		<OP>GROUP</OP>
+	</TranslationStack>
+	<QueryTranslation>"penney jb jr"[au] AND 1975[PDAT] : 2010[PDAT]</QueryTranslation>
+</eSearchResult>

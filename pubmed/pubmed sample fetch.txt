@@ -1,0 +1,410 @@
+PMID- 20516137
+OWN - NLM
+STAT- In-Process
+DA  - 20100602
+IS  - 1943-0264 (Electronic)
+VI  - 2
+IP  - 6
+DP  - 2010 Jun 1
+TI  - Perspectives for computer modeling in the study of T cell activation.
+PG  - a005538
+AB  - The T cell receptor (TCR) is responsible for discriminating between self-
+      and foreign-derived peptides, translating minute differences in amino-acid
+      sequence into large differences in response. Because of the great
+      variability in the TCR and its ligands, activation of T cells by foreign
+      peptides is a quantitative process, dependent on a mix of upstream signals
+      and downstream integration. Accordingly, quantitative data and
+      computational models have shed light on many important aspects of this
+      process: molecular noise in ligand recognition, spatial dynamics in T
+      cell-APC (antigen presenting cell) interactions, graded versus all-or-none
+      decision making by the TCR apparatus, mechanisms of peptide antagonism and
+      synergism, and the tunability and robustness of activation thresholds.
+      Though diverse in their formalism, these studies together paint a picture
+      of how modeling has shaped and will continue to shape understanding of T
+      cell immunobiology.
+AD  - Programs in Computational Biology and Immunology, ImmunoDynamics Group,
+      Memorial Sloan-Kettering Cancer Center, New York, NY 10065, USA.
+FAU - Coward, Jesse
+AU  - Coward J
+FAU - Germain, Ronald N
+AU  - Germain RN
+FAU - Altan-Bonnet, Gregoire
+AU  - Altan-Bonnet G
+LA  - eng
+GR  - R01-AI083408/AI/NIAID NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, U.S. Gov't, Non-P.H.S.
+DEP - 20100505
+PL  - United States
+TA  - Cold Spring Harb Perspect Biol
+JT  - Cold Spring Harbor perspectives in biology
+JID - 101513680
+SB  - IM
+PMC - PMC2869519
+OID - NLM: PMC2869519
+EDAT- 2010/06/03 06:00
+MHDA- 2010/06/03 06:00
+CRDT- 2010/06/03 06:00
+PHST- 2010/05/05 [aheadofprint]
+AID - cshperspect.a005538 [pii]
+AID - 10.1101/cshperspect.a005538 [doi]
+PST - ppublish
+SO  - Cold Spring Harb Perspect Biol. 2010 Jun 1;2(6):a005538. Epub 2010 May 5.
+
+PMID- 20153220
+OWN - NLM
+STAT- MEDLINE
+DA  - 20100301
+DCOM- 20100409
+IS  - 1097-4180 (Electronic)
+IS  - 1074-7613 (Linking)
+VI  - 32
+IP  - 2
+DP  - 2010 Feb 26
+TI  - Optimal germinal center responses require a multistage T cell:B cell
+      adhesion process involving integrins, SLAM-associated protein, and CD84.
+PG  - 253-65
+AB  - CD4(+) T cells deficient in signaling lymphocyte activation molecule
+      (SLAM)-associated protein (SAP) exhibit a selective impairment in adhesion
+      to antigen-presenting B cells but not dendritic cells (DCs), resulting in
+      defective germinal center formation. However, the nature of this selective
+      adhesion defect remained unclear. We found that whereas T cell:DC
+      interactions were primarily integrin dependent, T cell:B cell interactions
+      had both an early integrin-dependent phase and a sustained phase that also
+      required SAP. We further found that the SLAM family member CD84 was
+      required for prolonged T cell:B cell contact, optimal T follicular helper
+      function, and germinal center formation in vivo. Moreover, both CD84 and
+      another SLAM member, Ly108, mediated T cell adhesion and participated in
+      stable T cell:B cell interactions in vitro. Our results reveal insight
+      into the dynamic regulation of T cell:B cell interactions and identify
+      SLAM family members as critical components of sustained T cell:B cell
+      adhesion required for productive humoral immunity.
+CI  - Copyright  2010 Elsevier Inc. All rights reserved.
+AD  - National Human Genome Research Institute, National Institutes of Health,
+      Bethesda, MD 20892, USA.
+FAU - Cannons, Jennifer L
+AU  - Cannons JL
+FAU - Qi, Hai
+AU  - Qi H
+FAU - Lu, Kristina T
+AU  - Lu KT
+FAU - Dutta, Mala
+AU  - Dutta M
+FAU - Gomez-Rodriguez, Julio
+AU  - Gomez-Rodriguez J
+FAU - Cheng, Jun
+AU  - Cheng J
+FAU - Wakeland, Edward K
+AU  - Wakeland EK
+FAU - Germain, Ronald N
+AU  - Germain RN
+FAU - Schwartzberg, Pamela L
+AU  - Schwartzberg PL
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Intramural
+DEP - 20100211
+PL  - United States
+TA  - Immunity
+JT  - Immunity
+JID - 9432918
+RN  - 0 (Antigens, CD)
+RN  - 0 (Antigens, Ly)
+RN  - 0 (Cd84 protein, mouse)
+RN  - 0 (Interleukins)
+RN  - 0 (Intracellular Signaling Peptides and Proteins)
+RN  - 0 (Ly108 protein, mouse)
+RN  - 0 (Receptors, Cell Surface)
+RN  - 0 (Sh2d1a protein, mouse)
+RN  - 0 (interleukin-21)
+RN  - 169535-43-7 (CD150 antigen)
+RN  - 82115-62-6 (Interferon-gamma)
+SB  - IM
+MH  - Animals
+MH  - Antigens, CD/genetics/immunology/metabolism
+MH  - Antigens, Ly/immunology/metabolism
+MH  - B-Lymphocytes/immunology/*metabolism/pathology
+MH  - Cell Adhesion/genetics/*immunology
+MH  - Cell Differentiation/genetics/immunology
+MH  - Cell Proliferation
+MH  - Cells, Cultured
+MH  - Germinal Center/*metabolism/pathology
+MH  - Interferon-gamma/secretion
+MH  - Interleukins/secretion
+MH  - Intracellular Signaling Peptides and
+      Proteins/genetics/immunology/*metabolism
+MH  - Lymphocyte Activation/genetics
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Knockout
+MH  - Receptors, Cell Surface/genetics/immunology/metabolism
+MH  - T-Lymphocytes/immunology/*metabolism/pathology
+PMC - PMC2830297
+MID - NIHMS175758
+OID - NLM: NIHMS175758 [Available on 02/26/11]
+OID - NLM: PMC2830297 [Available on 02/26/11]
+EDAT- 2010/02/16 06:00
+MHDA- 2010/04/10 06:00
+CRDT- 2010/02/16 06:00
+PMCR- 2011/02/26
+PHST- 2009/06/19 [received]
+PHST- 2009/10/31 [revised]
+PHST- 2010/01/22 [accepted]
+PHST- 2010/02/11 [aheadofprint]
+AID - S1074-7613(10)00040-3 [pii]
+AID - 10.1016/j.immuni.2010.01.010 [doi]
+PST - ppublish
+SO  - Immunity. 2010 Feb 26;32(2):253-65. Epub 2010 Feb 11.
+
+PMID- 19951397
+OWN - NLM
+STAT- MEDLINE
+DA  - 20091216
+DCOM- 20100222
+LR  - 20100528
+IS  - 1475-4924 (Electronic)
+IS  - 1475-4924 (Linking)
+VI  - 8
+IP  - 10
+DP  - 2009
+TI  - Life and death as a T lymphocyte: from immune protection to HIV
+      pathogenesis.
+PG  - 91
+AB  - Detailed analysis of T cell dynamics in humans is challenging and mouse
+      models can be important tools for characterizing T cell dynamic processes.
+      In a paper just published in Journal of Biology, Marques et al. suggest
+      that a mouse model with its activated CD4(+) T cells are deleted has
+      relevance for HIV infection.
+AD  - Lymphocyte Biology Section, Laboratory of Immunology, National Institute
+      of Allergy and Infectious Diseases, National Institutes of Health,
+      Bethesda, MD 20892, USA. vnienke@niaid.nih.gov
+FAU - Vrisekoop, Nienke
+AU  - Vrisekoop N
+FAU - Mandl, Judith N
+AU  - Mandl JN
+FAU - Germain, Ronald N
+AU  - Germain RN
+LA  - eng
+PT  - Comment
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, Non-U.S. Gov't
+PT  - Review
+PL  - England
+TA  - J Biol
+JT  - Journal of biology
+JID - 101147570
+SB  - IM
+CON - J Biol. 2009;8(10):93. PMID: 19943952
+MH  - Animals
+MH  - CD4-Positive T-Lymphocytes/*immunology/virology
+MH  - CD8-Positive T-Lymphocytes/immunology/virology
+MH  - Disease Models, Animal
+MH  - HIV/*pathogenicity
+MH  - HIV Infections/*immunology/virology
+MH  - Lymphocyte Activation
+MH  - Mice
+MH  - Mice, Transgenic
+RF  - 18
+PMC - PMC2790836
+OID - NLM: PMC2790836
+EDAT- 2009/12/03 06:00
+MHDA- 2010/02/23 06:00
+CRDT- 2009/12/03 06:00
+PHST- 2009/11/27 [aheadofprint]
+AID - jbiol198 [pii]
+AID - 10.1186/jbiol198 [doi]
+PST - ppublish
+SO  - J Biol. 2009;8(10):91. Epub .
+
+PMID- 19907640
+OWN - NLM
+STAT- MEDLINE
+DA  - 20091112
+DCOM- 20100426
+IS  - 1932-6203 (Electronic)
+IS  - 1932-6203 (Linking)
+VI  - 4
+IP  - 11
+DP  - 2009
+TI  - Visualization and identification of IL-7 producing cells in reporter mice.
+PG  - e7637
+AB  - Interleukin-7 (IL-7) is required for lymphocyte development and
+      homeostasis although the actual sites of IL-7 production have never been
+      clearly identified. We produced a bacterial artificial chromosome (BAC)
+      transgenic mouse expressing ECFP in the Il7 locus. The construct lacked a
+      signal peptide and ECFP (enhanced cyan fluorescent protein) accumulated
+      inside IL-7-producing stromal cells in thoracic thymus, cervical thymus
+      and bone marrow. In thymus, an extensive reticular network of
+      IL-7-containing processes extended from cortical and medullary epithelial
+      cells, closely contacting thymocytes. Central memory CD8 T cells, which
+      require IL-7 and home to bone marrow, physically associated with
+      IL-7-producing cells as we demonstrate by intravital imaging.
+AD  - Laboratory of Molecular Immunoregulation, Cancer and Inflammation Program,
+      Center for Cancer Research, National Cancer Institute, NIH, Frederick, MD,
+      USA.
+FAU - Mazzucchelli, Renata I
+AU  - Mazzucchelli RI
+FAU - Warming, Soren
+AU  - Warming S
+FAU - Lawrence, Scott M
+AU  - Lawrence SM
+FAU - Ishii, Masaru
+AU  - Ishii M
+FAU - Abshari, Mehrnoosh
+AU  - Abshari M
+FAU - Washington, A Valance
+AU  - Washington AV
+FAU - Feigenbaum, Lionel
+AU  - Feigenbaum L
+FAU - Warner, Andrew C
+AU  - Warner AC
+FAU - Sims, Davis J
+AU  - Sims DJ
+FAU - Li, Wen Qing
+AU  - Li WQ
+FAU - Hixon, Julie A
+AU  - Hixon JA
+FAU - Gray, Daniel H D
+AU  - Gray DH
+FAU - Rich, Benjamin E
+AU  - Rich BE
+FAU - Morrow, Matthew
+AU  - Morrow M
+FAU - Anver, Miriam R
+AU  - Anver MR
+FAU - Cherry, James
+AU  - Cherry J
+FAU - Naf, Dieter
+AU  - Naf D
+FAU - Sternberg, Lawrence R
+AU  - Sternberg LR
+FAU - McVicar, Daniel W
+AU  - McVicar DW
+FAU - Farr, Andrew G
+AU  - Farr AG
+FAU - Germain, Ronald N
+AU  - Germain RN
+FAU - Rogers, Keith
+AU  - Rogers K
+FAU - Jenkins, Nancy A
+AU  - Jenkins NA
+FAU - Copeland, Neal G
+AU  - Copeland NG
+FAU - Durum, Scott K
+AU  - Durum SK
+LA  - eng
+GR  - N01-CO-12400/CO/NCI NIH HHS/United States
+PT  - Journal Article
+PT  - Research Support, N.I.H., Extramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20091110
+PL  - United States
+TA  - PLoS One
+JT  - PloS one
+JID - 101285081
+RN  - 0 (Cyan Fluorescent Protein)
+RN  - 0 (Interleukin-7)
+RN  - 147336-22-9 (Green Fluorescent Proteins)
+SB  - IM
+MH  - Animals
+MH  - Bone Marrow/metabolism
+MH  - CD8-Positive T-Lymphocytes/cytology
+MH  - Cell Separation
+MH  - Chromosomes, Artificial, Bacterial
+MH  - Female
+MH  - Genes, Reporter
+MH  - Green Fluorescent Proteins/metabolism
+MH  - Interleukin-7/*genetics/metabolism
+MH  - Lymphocytes/*cytology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - Recombination, Genetic
+MH  - Thymus Gland/metabolism
+PMC - PMC2770321
+OID - NLM: PMC2770321
+EDAT- 2009/11/13 06:00
+MHDA- 2010/04/27 06:00
+CRDT- 2009/11/13 06:00
+PHST- 2009/08/07 [received]
+PHST- 2009/09/22 [accepted]
+PHST- 2009/11/10 [epublish]
+AID - 10.1371/journal.pone.0007637 [doi]
+PST - epublish
+SO  - PLoS One. 2009 Nov 10;4(11):e7637.
+
+PMID- 19713459
+OWN - NLM
+STAT- MEDLINE
+DA  - 20091207
+DCOM- 20100105
+IS  - 1528-0020 (Electronic)
+IS  - 0006-4971 (Linking)
+VI  - 114
+IP  - 24
+DP  - 2009 Dec 3
+TI  - B-cell follicle development remodels the conduit system and allows soluble
+      antigen delivery to follicular dendritic cells.
+PG  - 4989-97
+AB  - Afferent lymph is transported throughout lymph nodes (LNs) by the conduit
+      system. Whereas this conduit network is dense in the T-cell zone, it is
+      sparse in B-cell follicles. In this study, we show that this differential
+      organization emerges during lymph node development. Neonatal LNs lack B
+      follicles, but have a developed T-cell zone and a dense conduit network.
+      As new T and B cells enter the developing LN, the conduit network density
+      is maintained in the T, but not the B zone, leading to a profound
+      remodeling of the follicular network that nevertheless maintains its
+      connectivity. In adults, the residual follicular conduits transport
+      soluble antigen to deep regions, where follicular dendritic cells are
+      abundant and appear to replace the fibroblastic reticular cells that
+      enwrap conduits in the T zone. This strategic location correlates with the
+      capacity of the follicular dendritic cells to capture antigen even in the
+      absence of antigen-specific antibodies. Together, these results describe
+      how the stromal organization of the T and B regions of LNs diverges during
+      development, giving rise to distinct antigen transport and delivery modes
+      in the 2 compartments.
+AD  - Centre National de la Recherche Scientifique, Inserm, Unite 924,
+      Universite de Nice-Sophia Antipolis, Valbonne, France.
+      bajenoff@ciml.univ-mrs.fr
+FAU - Bajenoff, Marc
+AU  - Bajenoff M
+FAU - Germain, Ronald N
+AU  - Germain RN
+LA  - eng
+PT  - Journal Article
+PT  - Research Support, N.I.H., Intramural
+PT  - Research Support, Non-U.S. Gov't
+DEP - 20090827
+PL  - United States
+TA  - Blood
+JT  - Blood
+JID - 7603509
+SB  - AIM
+SB  - IM
+MH  - Adoptive Transfer
+MH  - Animals
+MH  - Antigen Presentation/immunology
+MH  - B-Lymphocytes/cytology/*immunology
+MH  - Dendritic Cells, Follicular/cytology/*immunology
+MH  - Fluorescent Antibody Technique
+MH  - Lymph Nodes/*anatomy & histology/*immunology
+MH  - Mice
+MH  - Mice, Inbred C57BL
+MH  - Mice, Transgenic
+MH  - T-Lymphocytes/cytology/immunology
+PMC - PMC2788973
+OID - NLM: PMC2788973 [Available on 12/03/10]
+EDAT- 2009/08/29 09:00
+MHDA- 2010/01/06 06:00
+CRDT- 2009/08/29 09:00
+PMCR- 2010/12/03
+PHST- 2009/08/27 [aheadofprint]
+AID - blood-2009-06-229567 [pii]
+AID - 10.1182/blood-2009-06-229567 [doi]
+PST - ppublish
+SO  - Blood. 2009 Dec 3;114(24):4989-97. Epub 2009 Aug 27.
+

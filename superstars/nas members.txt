@@ -1,0 +1,727 @@
+Vern Schramm;Albert Einstein College of Medicine of Yeshiva University;Biochemistry;2007;transition state structure, drug design, enzymology, nucleoside metabolism
+Stephen Kowalczykowski;University of California, Davis;Biochemistry;2007;Protein-nucleic acid interactions; single-molecule biophysics; DNA motor proteins; genetic recombination and DNA repair
+David Anderson;California Institute of Technology;Cellular and Molecular Neuroscience;2007;neural circuits, emotion, drosophila, fear
+Tania Baker;Massachusetts Institute of Technology;Biochemistry;2007;
+Scott Emr;Cornell University;Biochemistry;2007;
+David Agard;University of California, San Francisco;Biophysics and Computational Biology;2007;
+Steven Block;Stanford University;Biophysics and Computational Biology;2007;
+Angela Gronenborn;University of Pittsburgh;Biophysics and Computational Biology;2007;
+Christopher Miller;Brandeis University;Biophysics and Computational Biology;2007;
+Clifford Tabin;Harvard University;Cellular and Developmental Biology;2007;
+Michael Young;The Rockefeller University;Cellular and Developmental Biology;2007;
+Eve Marder;Brandeis University;Cellular and Molecular Neuroscience;2007;
+Paul Falkowski;Rutgers, The State University of New Jersey, New Brunswick;Environmental Sciences and Ecology;2007;
+Stephen Pacala;Princeton University;Environmental Sciences and Ecology;2007;
+Sean Carroll;University of Wisconsin-Madison;Evolutionary Biology;2007;
+Victor Ambros;University of Massachusetts Medical School;Genetics;2007;
+Robert Edgar;University of California, Santa Cruz;Genetics;2007;
+Brian Druker;Oregon Health & Science University;Medical Genetics, Hematology, and Oncology;2007;
+David Ginsburg;University of Michigan;Medical Genetics, Hematology, and Oncology;2007;
+Helen Hobbs;The University of Texas Southwestern Medical Center at Dallas;Medical Genetics, Hematology, and Oncology;2007;
+Jonathan Seidman;Harvard University;Medical Physiology and Metabolism;2007;
+Gerald Shulman;Yale University;Medical Physiology and Metabolism;2007;
+Jeffery Dangl;The University of North Carolina at Chapel Hill;Plant Biology;2007;
+Mark Estelle;University of California, San Diego;Plant Biology;2007;
+Philip Johnson-Laird;Princeton University;Psychology;2007;
+Ursula Bellugi;Salk Institute for Biological Studies;Systems Neuroscience;2007;
+Peter Schiller;Massachusetts Institute of Technology;Systems Neuroscience;2007;
+William Eaton;National Institutes of Health;Biophysics and Computational Biology;2006;Protein folding, sickle cell disease, allostery, fast kinetic methods, single molecule spectroscopy
+David Baker;University of Washington;Biophysics and Computational Biology;2006;protein design, structure prediction, biophysics
+Michael Marletta;University of California, Berkeley;Biochemistry;2006;nitric oxide, oxygen sensing, signal transduction, enzymology, redox biochemistry, protein structure and function
+Barry Ganetzky;University of Wisconsin-Madison;Genetics;2006;neurogenetics, Drosophila, synaptic development, neurodegeneration, paralytic mutants
+Richard Lenski;Michigan State University;Evolutionary Biology;2006;evolutionary biology, experimental evolution, microbial evolution, microbial ecology, microbial genetics
+Ann McDermott;Columbia University;Biophysics and Computational Biology;2006;enzyme catalysis, membrane proteins, solid state NMR
+John Kutzbach;University of Wisconsin-Madison;Environmental Sciences and Ecology;2006;climate, climate change, paleoclimate, future climate, earth science, environmental science, hydrology, ecology
+Napoleone Ferrara;Genentech, Inc.;Medical Genetics, Hematology, and Oncology;2006;Angiogenesis; VEGF; Tumor; Age-related macular degeneration
+Joachim Frank;Columbia University;Biophysics and Computational Biology;2006;3D Imaging of Macromolecules, Mechanism of Protein Synthesis
+Michael O'Donnell;The Rockefeller University;Biochemistry;2006;
+Christian Raetz;Duke University;Biochemistry;2006;
+Carl Wu;National Institutes of Health;Biochemistry;2006;
+Don Cleveland;University of California, San Diego;Cellular and Developmental Biology;2006;
+John Saunders;State University of New York System;Cellular and Developmental Biology;2006;
+Wolfhard Almers;Oregon Health & Science University;Cellular and Molecular Neuroscience;2006;
+David Clapham;Harvard University;Cellular and Molecular Neuroscience;2006;
+David Karl;University of Hawaii at Manoa;Environmental Sciences and Ecology;2006;
+Douglas Futuyma;Stony Brook University;Evolutionary Biology;2006;
+Terry Orr-Weaver;Massachusetts Institute of Technology;Genetics;2006;
+Melanie Cobb;The University of Texas Southwestern Medical Center at Dallas;Medical Genetics, Hematology, and Oncology;2006;
+Arthur Riggs;City of Hope National Medical Center;Medical Genetics, Hematology, and Oncology;2006;
+David Russell;The University of Texas Southwestern Medical Center at Dallas;Medical Physiology and Metabolism;2006;
+Francisco Bezanilla;The University of Chicago;Physiology and Pharmacology;2006;
+Joseph Ecker;Salk Institute for Biological Studies;Plant Biology;2006;
+Edward Adelson;Massachusetts Institute of Technology;Psychology;2006;
+Rochel Gelman;Rutgers, The State University of New Jersey, New Brunswick;Psychology;2006;
+Charles Gilbert;The Rockefeller University;Systems Neuroscience;2006;
+Axel Brunger;Stanford University;Biophysics and Computational Biology;2005;structural neurobiology, vesicle trafficking, membrane fusion, X-ray crystallography, macromolecular simulations
+Wayne Hubbell;University of California, Los Angeles;Biophysics and Computational Biology;2005;site-directed spin labeling, phototransduction, EPR spectroscopy, protein dynamics, membrane proteins
+Michael Karin;University of California, San Diego;Medical Physiology and Metabolism;2005;signal transduction, NF-kappaB, AP-1, inflammation, cancer
+Tom Rapoport;Harvard University;Biochemistry;2005;protein translocation, retro-translocation, chaperones, vesicular traffic, organelle shape
+Daniel Cosgrove;Pennsylvania State University;Plant Biology;2005;plant cell growth, plant cell walls, expansin biochemistry and evolution, pollen allergens, cellulose and cellulases
+Richard Andersen;California Institute of Technology;Systems Neuroscience;2005;neural prosthetics, sensory systems, motor systems, eye movements, reach movements, vision, perception, decision making
+Daniel Hartl;Harvard University;Evolutionary Biology;2005;molecular evolutionary genetics, population genetics, evolutionary genomics, evolution of drug resistance
+Brigid Hogan;Duke University;Cellular and Developmental Biology;2005;mammalian development, organogenesis, embryonic stem cells, mouse developmental genetics, bone morphogenetic proteins (BMPs)
+Christine Seidman;Harvard University;Medical Physiology and Metabolism;2005;human molecular genetics, cardiovascular disease, cardiovascular development
+Steven Henikoff;Fred Hutchinson Cancer Research Center;Genetics;2005;histone variants, epigenomics, dna methylation, centromeres, reverse genetics, protein homology-based computational tools
+Mary-Claire King;University of Washington;Genetics;2005;genomics, human genetics, inherited cancer, breast cancer, ovarian cancer, deafness, schizophrenia
+Gene Robinson;University of Illinois at Urbana-Champaign;Evolutionary Biology;2005;genes and social behavior; mechanisms and evolution of social behavior; behavior of bees; social insects
+Aziz Sancar;The University of North Carolina at Chapel Hill;Biochemistry;2005;DNA Repair, cell cycle, circadian clock
+Marc Tessier-Lavigne;Genentech, Inc.;Cellular and Molecular Neuroscience;2005;developmental neurobiology, axon guidance, nerve regeneration, angiogenesis, cancer, translational medicine, drug discovery
+Ruth Lehmann;New York University;Cellular and Developmental Biology;2005;developmental genetics, germ cells, RNA localization, transport and translation, migration, stem cells
+Gertrud Schupbach;Princeton University;Cellular and Developmental Biology;2005;Developmental Biology, Pattern Formation, Drosophila, Signal Transduction, Germline, Embryo
+Douglas Medin;Northwestern University;Psychology;2005;culture and cognition, decision making, culture and education, categorization
+Gretchen Daily;Stanford University;Environmental Sciences and Ecology;2005;conservation science and policy; ecology; ecological economics; ecosystem services
+Peter Devreotes;Johns Hopkins University;Physiology and Pharmacology;2005;chemotaxis, signal transduction, G-protein coupled receptors, phosphoinositide signaling
+Craig Thompson;University of Pennsylvania;Medical Genetics, Hematology, and Oncology;2005;Cancer biology, Immunology, Hematology, and Cell Biology
+Joan Selverstone Valentine;University of California, Los Angeles;Biophysics and Computational Biology;2005;
+Joan Selverstone Valentine;University of California, Los Angeles;Biophysics and Computational Biology;2005;
+C. David Allis;The Rockefeller University;Cellular and Developmental Biology;2005;
+James Brown;The University of New Mexico;Environmental Sciences and Ecology;2005;
+Michael Donoghue;Yale University;Evolutionary Biology;2005;
+Iva Greenwald;Columbia University;Genetics;2005;
+Craig Mello;University of Massachusetts Medical School;Genetics;2005;
+Susan Horwitz;Albert Einstein College of Medicine of Yeshiva University;Medical Genetics, Hematology, and Oncology;2005;
+David Page;Massachusetts Institute of Technology;Medical Genetics, Hematology, and Oncology;2005;
+Andrew Marks;Columbia University;Medical Physiology and Metabolism;2005;
+Nancy Kanwisher;Massachusetts Institute of Technology;Psychology;2005;
+Monica Turner;University of Wisconsin-Madison;Environmental Sciences and Ecology;2004;terrestrial ecology, landscape ecology, forest ecosystem ecology, forest fire, land-use change, spatial heterogeneity
+Nancy Moran;Yale University;Evolutionary Biology;2004;symbiosis, molecular evolution, bacteria, insects, comparative genomics, aphids, Buchnera, mutualism, pathogenesis
+Walter Mischel;Columbia University;Psychology;2004;structure, and organization of social behavior, personality processes, delay of gratification and self-control mechanisms
+Erin O'Shea;Harvard University;Biochemistry;2004;signal transduction, gene regulation, proteomics, systems biology
+F. Stuart Chapin;University of Alaska, Fairbanks;Environmental Sciences and Ecology;2004;Resilience, social-ecological systems, ecosystem ecology, fire ecology, global change, boreal forest, arctic, Alaska
+Stephen Mayo;California Institute of Technology;Biophysics and Computational Biology;2004;protein design, protein stability, protein folding
+Peter Quail;University of California, Berkeley;Plant Biology;2004;plant molecular genetics, phytochromes, photosensory perception
+Richard Huganir;Johns Hopkins University;Cellular and Molecular Neuroscience;2004;neurotransmitter receptors, synaptic transmission, synaptic plasticity, learning and memory, protein phosphorylation
+David Julius;University of California, San Francisco;Physiology and Pharmacology;2004;neuropharmacology, sensory physiology, nociception, pain, thermosensation, ion channels, neurotransmitter receptors
+Huda Zoghbi;Baylor College of Medicine;Cellular and Molecular Neuroscience;2004;neurogenetics, polyglutamine neurodegenerative diseases, Rett syndrome, autism and related postnatal developmental disorders
+Edward Jones;University of California, Davis;Systems Neuroscience;2004;neuroanatomy, systems neuroscence, thalamus, cerebral cortex, brain plasticity, schizophrenia, depression
+Kevin Campbell;The University of Iowa;Medical Physiology and Metabolism;2004;muscular dystrophy, dystrophy-glycoprotein complex, dystroglycan, sarcoglycan, dysferlin, duchenne muscular dystrophy
+Sue Hengren Wickner;National Institutes of Health;Biochemistry;2004;Molecular chaperones, DNA replication, energy-dependent proteases
+Peter Walter;University of California, San Francisco;Biochemistry;2004;molecular cell biology, membrane biogenesis, organelle homeostasis, protein folding and quality control
+Elizabeth Loftus;University of California, Irvine;Psychology;2004;memory, human memory, false memories, law and psychology
+Martin Chalfie;Columbia University;Genetics;2004;mechanosensation, neuronal differentiation, C. elegans genetics
+Mark Keating;Novartis Institutes for Biomedical Research, Inc.;Medical Physiology and Metabolism;2004;macular degeneration, drug discovery, retinal research
+Elissa Newport;University of Rochester;Psychology;2004;language acquisition, psycholinguistics, cognitive science
+John Potts;Harvard University;Medical Physiology and Metabolism;2004;endocrine physiology, parathyroid hormone (PTH) and its role in normal and disordered calcium and bone metabolism
+Barry Honig;Columbia University;Biophysics and Computational Biology;2004;computational biology, protein structure prediction, protein-DNA interactions, cadherin function protein-protein interactions
+Shaun Coughlin;University of California, San Francisco;Medical Physiology and Metabolism;2004;cell signaling, proteases, receptors, hemostasis and thrombosis, cardiovascular biology and embryonic development
+Alan Lambowitz;The University of Texas at Austin;Biochemistry;2004;catalytic RNAs, RNA-protein interactions, mobile genetic elements, gene targeting
+George Oster;University of California, Berkeley;Biophysics and Computational Biology;2004;biophysics
+George Yancopoulos;Regeneron Pharmaceuticals, Inc.;Medical Genetics, Hematology, and Oncology;2004;angiopoietins, VEGF, muscle atrophy, obesity, growth factors, homologous recombination, mouse genetics, knockouts, transgenics
+Charles Zuker;Columbia University;Cellular and Molecular Neuroscience;2004;
+Nancy Hopkins;Massachusetts Institute of Technology;Genetics;2004;
+Xiaodong Wang;The University of Texas Southwestern Medical Center at Dallas;Medical Genetics, Hematology, and Oncology;2004;
+Susan Amara;University of Pittsburgh;Physiology and Pharmacology;2004;
+Robert Stroud;University of California, San Francisco;Biophysics and Computational Biology;2003;protein structure and function; membrane proteins and complexes, polyketide synthases, RNA modifying enzymes
+Robert Stroud;University of California, San Francisco;Biophysics and Computational Biology;2003;protein structure and function; membrane proteins and complexes, polyketide synthases, RNA modifying enzymes
+Barry Coller;The Rockefeller University;Medical Genetics, Hematology, and Oncology;2003;platelets, thrombosis, hemostasis
+June Nasrallah;Cornell University;Plant Biology;2003;plant reproduction, self-incompatibility, receptor-mediated signaling, evolution of plant mating systems, Arabidopsis thaliana
+Anthony Cashmore;University of Pennsylvania;Plant Biology;2003;photobiology, light signaling, photoreceptors, cryptochrome, Arabidopsis, molecular genetics, circadian rhythms, flavoproteins
+Dennis Carson;University of California, San Diego;Medical Genetics, Hematology, and Oncology;2003;oncology, immunology, drug development
+John Baxter;The Methodist Hospital Research Institute;Medical Physiology and Metabolism;2003;nuclear receptors, thyroid hormone receptors and actions, general endocrinology, molecular and cell biology, gene regulation
+Fred Gage;Salk Institute for Biological Studies;Systems Neuroscience;2003;neuroscience, stem cell biology, neural plasticity
+Joseph Takahashi;The University of Texas Southwestern Medical Center at Dallas;Cellular and Molecular Neuroscience;2003;neuroscience, circadian biology, mouse genetics and genomics
+Wen-Hsiung Li;The University of Chicago;Evolutionary Biology;2003;molecular evolution, evolutionary genomics
+Sallie Chisholm;Massachusetts Institute of Technology;Environmental Sciences and Ecology;2003;microbial oceanography, ecological genomics, cyanobacterial ecology, Prochlorococcus, marine productivity
+James Tiedje;Michigan State University;Environmental Sciences and Ecology;2003;microbial ecology, physiology and diversity, microbial genomics, bioremediation, ecology of antibiotic resistance
+Jody Deming;University of Washington;Evolutionary Biology;2003;Low-temp and deep-sea microbiology, Arctic ecosystems, sea ice, astrobiology, cold-active enzymes, evolution of psychrophily
+Michael Rosbash;Brandeis University;Cellular and Developmental Biology;2003;genetics, RNA processing, molecular neuroscience and circadian rhythms
+Stephen Elledge;Harvard University;Medical Genetics, Hematology, and Oncology;2003;genetics, DNA damage, cell cycle, cancer, ubiquitin-mediated proteolysis
+Rudolf Jaenisch;Massachusetts Institute of Technology;Medical Genetics, Hematology, and Oncology;2003;epigenetic regulation of cancer, genomic reprogramming following nuclear transfer, embryonic and adult stem cells
+David DeRosier;Brandeis University;Biophysics and Computational Biology;2003;electron cryomicroscopy, image analysis, bacterial chemotaxis, actin cytoskeleton
+Carol Greider;Johns Hopkins University;Biochemistry;2003;chromosome structure, telomeres, telomerase, genome stability
+William Schlesinger;Cary Institute of Ecosystem Studies;Environmental Sciences and Ecology;2003;biogeochemistry, global change, ecosystem science
+Jeffrey Hall;University of Maine;Genetics;2003;behavioral neurogenetics, molecular neurobiology, Drosophila reproduction, circadian biological rhythms
+Arthur Horwich;Yale University;Biochemistry;2003;
+Cornelia Bargmann;The Rockefeller University;Cellular and Molecular Neuroscience;2003;
+Linda Buck;Fred Hutchinson Cancer Research Center;Cellular and Molecular Neuroscience;2003;
+Cynthia Kenyon;University of California, San Francisco;Genetics;2003;
+David Lipman;National Institutes of Health;Genetics;2003;
+Masashi Yanagisawa;The University of Texas Southwestern Medical Center at Dallas;Physiology and Pharmacology;2003;
+Linda Bartoshuk;University of Florida;Psychology;2003;
+Claude Steele;Columbia University;Psychology;2003;
+Gail Martin;University of California, San Francisco;Cellular and Developmental Biology;2002;vertebrate organogenesis, FGF signaling in organogenesis
+Charles Esmon;Oklahoma Medical Research Foundation;Medical Genetics, Hematology, and Oncology;2002;the regulation of blood coagulation and the impact of coagulation on inflammation and vice versa
+Thomas Sudhof;Stanford University;Cellular and Molecular Neuroscience;2002;synapse, synaptic transmission, synaptic plasticity, neurodegeneration, neural circuits
+Jennifer Doudna;University of California, Berkeley;Biochemistry;2002;RNA structure and function, viral translational control
+Constance Cepko;Harvard University;Cellular and Developmental Biology;2002;retinal development, retrovirus
+Adriaan Bax;National Institutes of Health;Biophysics and Computational Biology;2002;nuclear magnetic resonance spectroscopy, NMR
+Richard Wolfenden;The University of North Carolina at Chapel Hill;Biochemistry;2002;measuring and analyzing the catalytic power of enzymes, designing transition state analogue inhibitors
+Harvey Alter;National Institutes of Health;Medical Physiology and Metabolism;2002;hepatitis C, transfusion-transmitted infections, viral liver disease
+Richard Goodman;Oregon Health & Science University;Medical Physiology and Metabolism;2002;gene regulation and genomics
+Joseph Fraumeni;National Institutes of Health;Medical Genetics, Hematology, and Oncology;2002;epidemiologic research to identify the genetic and environmental determinants of cancer
+Joshua Sanes;Harvard University;Cellular and Molecular Neuroscience;2002;differentiation and selective formation of vertebrate synapses
+Kathryn Anderson;Memorial Sloan-Kettering Cancer Center;Genetics;2002;developmental genetics, mouse embryo, Drosophila embryo
+Richard Nisbett;University of Michigan;Psychology;2002;culture and cognition, judgment, inference, honor, consciousness
+Susan Carey;Harvard University;Psychology;2002;cognitive development, conceptual change in childhood and in history of science
+Rowena Matthews;University of Michigan;Biochemistry;2002;cobalamin, folate, enzyme mechanisms, enzyme regulation
+G. David Tilman;University of Minnesota, Minneapolis;Environmental Sciences and Ecology;2002;biodiversity, productivity, biofuels, stability and ecosystem services, consumer-resource interactions and ecosystem functioning
+Eric Knudsen;Stanford University;Systems Neuroscience;2002;auditory neurophysiology, plasticity, learning, attention, multimodal integration, sound localization, owl, sensitive periods
+Philip Beachy;Stanford University;Biochemistry;2002;
+Patrick Brown;Stanford University;Biochemistry;2002;
+Carlos Bustamante;University of California, Berkeley;Biophysics and Computational Biology;2002;
+Michael Levitt;Stanford University;Biophysics and Computational Biology;2002;
+J. Craig Venter;The J. Craig Venter Institute;Medical Genetics, Hematology, and Oncology;2002;
+Bruce Spiegelman;Harvard University;Medical Physiology and Metabolism;2002;
+John Doebley;University of Wisconsin-Madison;Plant Biology;2002;
+Charles Gallistel;Rutgers, The State University of New Jersey, New Brunswick;Psychology;2002;
+Pamela Bjorkman;California Institute of Technology;Biochemistry;2001;X-ray crystallography, protein structure, immunology, receptors, intracellular trafficking
+Jeffrey Gordon;Washington University;Medical Physiology and Metabolism;2001;symbiotic host-microbial interactions, human gut microbial ecology; gut development and physiology; comparative metagenomics
+Lewis Cantley;Harvard University;Cellular and Developmental Biology;2001;signal transduction pathways that regulate eukaryotic cells
+Alexander Glazer;University of California, Berkeley;Biochemistry;2001;photobiology, fluorescent probes for biological analyses, genomics, microbial biotechnology, biological field stations
+Gerald Joyce;The Scripps Research Institute;Biochemistry;2001;nucleic acid chemistry, nucleic acid biochemistry, directed molecular evolution, origin of life
+Lynn Landmesser;Case Western Reserve University;Cellular and Molecular Neuroscience;2001;neural development, synapse formation and plasticity, spinal cord motor circuits
+Ronald Vale;University of California, San Francisco;Cellular and Developmental Biology;2001;motor proteins, cytoskeleton, microscopy, kinesin
+J. Clark Lagarias;University of California, Davis;Plant Biology;2001;molecular basis of light signaling, biliprotein engineering, tetrapyrrole biochemistry, plant development
+Christopher Field;Carnegie Institution of Washington;Environmental Sciences and Ecology;2001;global ecology, climate change
+Philip Green;University of Washington;Biophysics and Computational Biology;2001;genomics, molecular evolution, computational biology
+Joan Brugge;Harvard University;Cellular and Developmental Biology;2001;epithelial morphogenesis and oncogenesis
+Stephen Carpenter;University of Wisconsin-Madison;Environmental Sciences and Ecology;2001;ecosystem science, limnology, social-ecological systems
+Pietro De Camilli;Yale University;Cellular and Molecular Neuroscience;2001;development and function of neuronal synapses, understanding of nervous system function in health and disease
+Edwin Taylor;Northwestern University;Cellular and Developmental Biology;2001;cytoskeleton, molecular motors, muscle, kinetics, thermodynamics
+James McClelland;Stanford University;Psychology;2001;Cognitive Science, Cognitive Neuroscience, Learning, Memory, Cognition, Cognitive Development
+Lawrence Einhorn;Indiana University;Medical Genetics, Hematology, and Oncology;2001;clinical trials in oncology, germ cell tumors, lung cancer
+Mark Groudine;Fred Hutchinson Cancer Research Center;Medical Genetics, Hematology, and Oncology;2001;chromatin, gene expression, nuclear organization
+Alfred Sommer;Johns Hopkins University;Medical Physiology and Metabolism;2001;child survival, blindness prevention, vitamin A, glaucoma, public health, epidemiology, global health
+Mimi Koehl;University of California, Berkeley;Environmental Sciences and Ecology;2001;biomechanics, marine biology, biofluiddynamics
+Patricia Zambryski;University of California, Berkeley;Plant Biology;2001;agrobacterium mediated type IV secretion to plants, intercellular communication in plants via plasmodesmata, floral development
+John Kuriyan;University of California, Berkeley;Biophysics and Computational Biology;2001;
+Jeffrey Friedman;The Rockefeller University;Medical Physiology and Metabolism;2001;
+Richard Lifton;Yale University;Medical Physiology and Metabolism;2001;
+John Exton;Vanderbilt University;Physiology and Pharmacology;2001;
+Daniel Kahneman;Princeton University;Psychology;2001;
+Douglas Rees;California Institute of Technology;Biophysics and Computational Biology;2000;structural biology
+Douglas Rees;California Institute of Technology;Biophysics and Computational Biology;2000;structural biology
+Richard Kolodner;University of California, San Diego;Medical Genetics, Hematology, and Oncology;2000;recombination, repair, genome instability, mismatch repair, human genetics
+Michael Welsh;The University of Iowa;Medical Physiology and Metabolism;2000;pulmonary, epithelia, cystic fibrosis, ion channels, sensory receptors
+Jack Dixon;Howard Hughes Medical Institute;Biochemistry;2000;protein phosphatases, bacterial pathogenesis, signal transduction, infectious diseases, cell biology, biochemistry
+Stanley Fields;University of Washington;Genetics;2000;protein interactions, protein technology, proteomics, genomics, yeast, Saccharomyces cerevisiae
+Reed Wickner;National Institutes of Health;Genetics;2000;prions, amyloid, yeast, dsRNA, viruses, Ski2, Mak3
+Eric Olson;The University of Texas Southwestern Medical Center at Dallas;Cellular and Developmental Biology;2000;muscle development, gene regulation, heart disease
+Rita Colwell;University of Maryland, College Park;Evolutionary Biology;2000;molecular microbial ecology and systematics; marine microbiology; science, mathematics
+Jeffrey Palmer;Indiana University;Plant Biology;2000;molecular and plant evolution, phylogenetics, chloroplasts, mitochondria, lateral gene transfer, endosymbiosis, mutation rates
+Sen-itiroh Hakomori;Pacific Northwest Diabetes Research Institute;Biochemistry;2000;Glycosphingolipid, ganglioside, signal transduction, integrin, growth factor receptor, tumor cell malignancy, microdomain
+William Jury;University of California, Riverside;Environmental Sciences and Ecology;2000;global water issues, chemical movement and reactions in soil and groundwater
+Simon Levin;Princeton University;Environmental Sciences and Ecology;2000;ecology and evolutionary biology, applied mathematics
+Leslie Ungerleider;National Institutes of Health;Systems Neuroscience;2000;cognitive neuroscience, visual attention
+Joseph Schlessinger;Yale University;Medical Genetics, Hematology, and Oncology;2000;cell signaling, cell surface receptors, phosphrylation, protein kinases
+Jon Kaas;Vanderbilt University;Systems Neuroscience;2000;brain evolution, sensory and motor systems in mammals
+Richard Scheller;Genentech, Inc.;Cellular and Molecular Neuroscience;2000;biotechnology
+Robert Mahley;The J. David Gladstone Institutes;Medical Physiology and Metabolism;2000;Alzheimer's disease, apolipoprotein E, atherosclerosis, coronary heart disease risk factors, HDL, lipoprotein metabolism
+Roderick MacKinnon;The Rockefeller University;Biophysics and Computational Biology;2000;
+Joan Massague;Memorial Sloan-Kettering Cancer Center;Cellular and Developmental Biology;2000;
+Eric Shooter;Stanford University;Cellular and Molecular Neuroscience;2000;
+Barbara Meyer;University of California, Berkeley;Genetics;2000;
+Robert Waterston;University of Washington;Medical Genetics, Hematology, and Oncology;2000;
+Peter Agre;Johns Hopkins University;Physiology and Pharmacology;2000;
+Lila Gleitman;University of Pennsylvania;Psychology;2000;
+William Newsome;Stanford University;Systems Neuroscience;2000;
+Arthur Landy;Brown University;Biochemistry;1999;site-specific recombination, Holliday junction recombination intermediates, protein-DNA interactions
+James Wells;University of California, San Francisco;Biochemistry;1999;protein engineering, drug discovery and chemical biology of signal transduction processes
+Barbara Schaal;Washington University;Evolutionary Biology;1999;plant evolutionary genetics, rice genetic resources
+Tom Phillips;University of Illinois at Urbana-Champaign;Plant Biology;1999;paleobotany, paleoecology, evolution, tropical coal swamps, vascular plants, Pennsylvanian/Carboniferous coal age
+C. Ronald Kahn;Harvard University;Medical Physiology and Metabolism;1999;obesity, metabolism, diabetes
+Louis Ignarro;University of California, Los Angeles;Physiology and Pharmacology;1999;nitric oxide, cyclic GMP, heart health
+Robert Desimone;Massachusetts Institute of Technology;Systems Neuroscience;1999;neuroscience, neurophysiology, attention, brain
+Patricia Donahoe;Harvard University;Medical Physiology and Metabolism;1999;Mullerian Inhibiting Substance as potential anticancer agent against ovarian carcinomas, genetics of sex differentiation
+J. Richard McIntosh;University of Colorado at Boulder;Cellular and Developmental Biology;1999;mitosis, microtubules, motility, motor enzymes, morphogenesis, electron microscopy, 3D reconstruction
+Arthur Karlin;Columbia University;Physiology and Pharmacology;1999;membrane receptors, ion channels, transport proteins
+Thomas Petes;Duke University;Genetics;1999;meiotic recombination, regulation of genome stability in yeast
+Joanne Chory;Salk Institute for Biological Studies;Plant Biology;1999;light-regulated development of plants
+Joseph Felsenstein;University of Washington;Evolutionary Biology;1999;evolution, statistics, phylogenies, coalescents, theoretical population genetics
+James Cleaver;University of California, San Francisco;Medical Genetics, Hematology, and Oncology;1999;DNA repair, skin cancer, DNA replication
+Matthew Scott;Stanford University;Genetics;1999;development, genetics, signal transduction, neuroscience, cancer, neurodegeneration, birth defects
+Erkki Ruoslahti;Sanford-Burnham Medical Research Institute;Medical Genetics, Hematology, and Oncology;1999;cell adhesion, extracellular matrix, cancer metastasis, angiogenesis, peptides, vascular zip codes
+Marlene Belfort;New York State Department of Health;Biochemistry;1999;bacterial molecular genetics, introns, inteins, splicing, RNA, protein structure, mobile DNA, retroelements, transposition
+William DeGrado;University of Pennsylvania;Biophysics and Computational Biology;1999;
+Jeffrey Roberts;Cornell University;Genetics;1999;
+John Anderson;Carnegie Mellon University;Psychology;1999;
+Elizabeth Spelke;Harvard University;Psychology;1999;
+Michael Merzenich;Brain Plasticity, Inc.;Systems Neuroscience;1999;
+Charles Gross;Princeton University;Systems Neuroscience;1998;visual neurophysiology, visual neuropsychology, history of biology and psychology, neuroethics
+Norma Graham;Columbia University;Psychology;1998;visual behavior, visual neuroscience, computational models
+J. William Schopf;University of California, Los Angeles;Evolutionary Biology;1998;Precambrian paleobiology and microfossils, organic geochemistry, paleobotany, biochemical and atmospheric evolution
+Tony Hunter;Salk Institute for Biological Studies;Medical Genetics, Hematology, and Oncology;1998;phosphorylation, signal transduction, protein kinase, protein phosphatase, ubiquitin ligase, cell cycle, growth control, cancer
+Douglas Coleman;The Jackson Laboratory;Medical Physiology and Metabolism;1998;obesity, diabetes, mouse genetics, mammalian biochemical genetics
+Elizabeth Anne Craig;University of Wisconsin-Madison;Genetics;1998;molecular chaperones, protein translocation, protein folding, Hsp70
+Joan Ruderman;Harvard University;Cellular and Developmental Biology;1998;mitosis, cell cycle, environmental endocrine disruptors
+William Chameides;Duke University;Environmental Sciences and Ecology;1998;global change, atmospheric chemistry, sustainable development
+William Dove;University of Wisconsin-Madison;Genetics;1998;genetics, colon cancer, mouse and rat biology
+David Wake;University of California, Berkeley;Evolutionary Biology;1998;evolutionary biology, systematics, herpetology, comparative, developmental morphology, conservation biology
+Jack Szostak;Harvard University;Biochemistry;1998;directed evolution, origin of life, aptamers, ribozymes, self-replication, mRNA-display, in vitro translation
+Charles Dinarello;University of Colorado at Denver;Medical Physiology and Metabolism;1998;cytokines, interleukins, tumor necrosis factor
+Robert Eisenman;Fred Hutchinson Cancer Research Center;Medical Genetics, Hematology, and Oncology;1998;cancer biology, oncogenes, gene regulation, chromatin
+Susan Gottesman;National Institutes of Health;Genetics;1998;bacterial genetics
+Perry Frey;University of Wisconsin-Madison;Biochemistry;1998;
+Carl Pabo;Protean Futures, LLC;Biophysics and Computational Biology;1998;
+Michael Levine;University of California, Berkeley;Cellular and Developmental Biology;1998;
+David Ward;University of Hawaii at Manoa;Medical Genetics, Hematology, and Oncology;1998;
+Roger Tsien;University of California, San Diego;Physiology and Pharmacology;1998;
+Nobuo Suga;Washington University;Systems Neuroscience;1998;
+Michael Gimbrone;Harvard University;Medical Physiology and Metabolism;1997;vascular biology and molecular mechanisms of cardiovascular diseases, inflammation, atherosclerosis
+Dieter Soll;Yale University;Biochemistry;1997;transfer RNA, genetic code, aminoacyl-tRNA synthesis
+Peter Moore;Yale University;Biophysics and Computational Biology;1997;structural biology, RNA. ribonucleoproteins, NMR, X-ray crystallography
+Johann Deisenhofer;The University of Texas Southwestern Medical Center at Dallas;Biophysics and Computational Biology;1997;structural biology, macromolecular structure, X-ray crystallography
+Thomas Stossel;Harvard University;Medical Genetics, Hematology, and Oncology;1997;regulation of cellular actin remodeling, blood platelet refrigeration, policy governing academic-industry interaction
+S. Walter Englander;University of Pennsylvania;Biophysics and Computational Biology;1997;protein structure, stability, dynamics, function studied especially by hydrogen exchange methods, protein folding problem
+Linda Randall;University of Missouri-Columbia;Biochemistry;1997;protein export in bacteria, protein-protein interactions, protein chaperones
+Ferid Murad;The University of Texas-Houston Health Science Center;Physiology and Pharmacology;1997;nitric oxide, cyclic GMP, guanylyl cyclase, stem cells
+Rodney Croteau;Washington State University;Plant Biology;1997;natural products, plant defenses, terpenoid biochemistry
+Masatoshi Nei;Pennsylvania State University;Evolutionary Biology;1997;molecular evolution, multigene families, genomic evolution, neutral theory
+Eric Lander;The Broad Institute;Medical Genetics, Hematology, and Oncology;1997;genomics, human genetics, genomic medicine, genome evolution, population genetics, inherited disease, mouse genetics
+Owen Witte;University of California, Los Angeles;Medical Genetics, Hematology, and Oncology;1997;cancer research, immunology, stem cells
+Webster Cavenee;University of California, San Diego;Medical Genetics, Hematology, and Oncology;1997;cancer genetics, signal transduction
+Peter Kim;Merck & Co., Inc.;Biochemistry;1997;
+George Lorimer;University of Maryland, College Park;Biochemistry;1997;
+Donald Engelman;Yale University;Biophysics and Computational Biology;1997;
+Richard Tsien;Stanford University;Cellular and Molecular Neuroscience;1997;
+Susan Lindquist;Massachusetts Institute of Technology;Genetics;1997;
+Inder Verma;Salk Institute for Biological Studies;Medical Genetics, Hematology, and Oncology;1997;
+Lewis Williams;Five Prime Therapeutics;Medical Genetics, Hematology, and Oncology;1997;
+Bruce McEwen;The Rockefeller University;Systems Neuroscience;1997;
+Elaine Fuchs;The Rockefeller University;Cellular and Developmental Biology;1996;stem cells, keratinocyte, epithelial, epidermis
+Christopher Somerville;University of California, Berkeley;Plant Biology;1996;plant cell walls, polysaccharides, Arabidopsis, biofuels, biomass
+Maria New;Mount Sinai School of Medicine;Medical Physiology and Metabolism;1996;Pediatric endocrinology, adrenal steroid disorders, intersex, low-renin hypertension, congenital adrenal hyperplasia
+Thaddeus Dryja;Novartis Institutes for Biomedical Research, Inc.;Medical Genetics, Hematology, and Oncology;1996;ophthalmology, retinitis pigmentosa, genetics, photoreceptor, uveitis, clinical trials, macular degeneration, pathology
+James Dahlberg;University of Wisconsin-Madison;Biochemistry;1996;microRNAs, RNA transport, RNA processing
+Jane Lubchenco;National Oceanic and Atmospheric Administration;Environmental Sciences and Ecology;1996;marine ecology, coastal ocean ecosystems, environmental sciences, public understanding of science, sustainability science
+Thomas Cline;University of California, Berkeley;Genetics;1996;Drosophila development and developmental evolution, sex-determination, insect germ cells and gametogenesis
+Joseph Beavo;University of Washington;Physiology and Pharmacology;1996;cyclic nucleotide phosphodiesterases, cyclic AMP, cyclic GMP
+Richard Hynes;Massachusetts Institute of Technology;Cellular and Developmental Biology;1996;cell adhesion, cell migration, vascular biology, invasion, metastasis, angiogenesis, stem cells
+Marcus Raichle;Washington University;Systems Neuroscience;1996;Brain imaging, human brain function
+Robert Sauer;Massachusetts Institute of Technology;Biochemistry;1996;
+Susan Taylor;University of California, San Diego;Biochemistry;1996;
+William Wickner;Dartmouth Medical School;Biochemistry;1996;
+Carolyn Cohen;Brandeis University;Biophysics and Computational Biology;1996;
+Timothy Springer;Harvard University;Biophysics and Computational Biology;1996;
+Timothy Springer;Harvard University;Biophysics and Computational Biology;1996;
+Yuh Nung Jan;University of California, San Francisco;Cellular and Molecular Neuroscience;1996;
+Jeremy Nathans;Johns Hopkins University;Cellular and Molecular Neuroscience;1996;
+Margaret Kidwell;University of Arizona;Evolutionary Biology;1996;
+Carlo Croce;The Ohio State University;Medical Genetics, Hematology, and Oncology;1996;
+Maarten Chrispeels;University of California, San Diego;Plant Biology;1996;
+Elisabeth Gantt;University of Maryland, College Park;Plant Biology;1996;
+Edward Smith;Columbia University;Psychology;1996;
+Nancy Kopell;Boston University;Systems Neuroscience;1996;
+Alexander Varshavsky;California Institute of Technology;Biochemistry;1995;ubiquitin, regulated proteolysis, N-end rule pathways
+Charles Sherr;St. Jude Children's Research Hospital;Medical Genetics, Hematology, and Oncology;1995;tumor suppressors, oncogenes, cell division cycle, D-type cyclins, cyclin-dependent kinases, Cdk inhibitors, Ink4a/Arf locus
+Gregory Petsko;Brandeis University;Biophysics and Computational Biology;1995;structural enzymology, protein structure and function, yeast genetics, the quiescent state of the cell, neurologic disorders
+Gregory Petsko;Brandeis University;Biophysics and Computational Biology;1995;structural enzymology, protein structure and function, yeast genetics, the quiescent state of the cell, neurologic disorders
+Clara Franzini-Armstrong;University of Pennsylvania;Physiology and Pharmacology;1995;striated muscle contraction and activation
+Steven Tanksley;Cornell University;Plant Biology;1995;plant evolution, plant genetics, plant molecular biology, quantitative genetics, developmental plant biology, plant breeding
+Elliot Meyerowitz;California Institute of Technology;Plant Biology;1995;plant developmental genetics
+Lutz Birnbaumer;National Institutes of Health;Physiology and Pharmacology;1995;molecular endocrinology, signal transduction, heterotrimeric G proteins, G-protein coupled receptors, epigenetics, imprinting
+Melvin Grumbach;University of California, San Francisco;Medical Physiology and Metabolism;1995;hormonal and genetic effects on growth and maturation, developmental endocrinology and neuroendocrinology
+Clyde Hutchison;The J. Craig Venter Institute;Biochemistry;1995;genomics, synthetic biology, mycoplasma, mutagenesis
+Charles Radding;Yale University;Biochemistry;1995;genetic recombination, recognition of DNA homology, recombination proteins, molecular mechanisms of recombination
+Alexander Klibanov;Massachusetts Institute of Technology;Biophysics and Computational Biology;1995;enzymes as catalysts in organic synthesis, pharmaceutical proteins, microbicidal materials, gene therapy
+Donald Malins;Pacific Northwest Diabetes Research Institute;Medical Genetics, Hematology, and Oncology;1995;DNA changes induced by reactive oxygen species, Cancer-related DNA structural changes, DNA models for cancer prediction
+Corey Goodman;venBio LLC;Cellular and Molecular Neuroscience;1995;developmental neurobiology, molecular neuroscience, biotechnology, neurological diseases/disorders, drug discovery/development
+Lowell Hager;University of Illinois at Urbana-Champaign;Biochemistry;1995;chemistry and biochemistry of heme enzymes
+David Livingston;Dana-Farber Harvard Cancer Center;Medical Genetics, Hematology, and Oncology;1995;cancer science, cancer genetics, molecular basis of disease
+Carla Shatz;Stanford University;Cellular and Molecular Neuroscience;1995;brain development, critical periods, use-dependent circuit changes, synaptic plasticity, activity-dependent gene regulation
+Jan Breslow;The Rockefeller University;Medical Physiology and Metabolism;1995;atherosclerosis, mouse models, genetics, lipid metabolism
+Larry Gold;SomaLogic, Inc.;Medical Genetics, Hematology, and Oncology;1995;Aptamer array techonology, bioinformatics, biomarkers, disease signatures/screening, protein signatures
+Watt Webb;Cornell University;Biophysics and Computational Biology;1995;
+Watt Webb;Cornell University;Biophysics and Computational Biology;1995;
+Judith Kimble;University of Wisconsin-Madison;Cellular and Developmental Biology;1995;
+Douglas Melton;Harvard University;Cellular and Developmental Biology;1995;
+Douglas Wallace;University of Pennsylvania;Medical Genetics, Hematology, and Oncology;1995;
+Lily Jan;University of California, San Francisco;Physiology and Pharmacology;1995;
+Bob Buchanan;University of California, Berkeley;Plant Biology;1995;
+Richard Shiffrin;Indiana University;Psychology;1995;
+Lucy Shapiro;Stanford University;Cellular and Developmental Biology;1994;the Cell Cycle, spatial and temporal control of a multicomponent genetic network
+Sung-Hou Kim;University of California, Berkeley;Biophysics and Computational Biology;1994;structural biology, structural genomics, computational genomics, drug discovery
+Donald Caspar;Florida State University;Biophysics and Computational Biology;1994;structural biology
+Thomas Taylor;University of Kansas;Plant Biology;1994;paleobiology, fossil plants and fungi, Antarctica, symbiosis
+Maynard Olson;University of Washington;Medical Genetics, Hematology, and Oncology;1994;genome analysis, human genetics, molecular evolution
+Eric Wieschaus;Princeton University;Cellular and Developmental Biology;1994;embryonic development, Drosophila, cell signalling, stem cells and development
+Anthony Mahowald;The University of Chicago;Cellular and Developmental Biology;1994;Drosophila oogenesis and spermatogenesis, mitochondrial fusion and division, culture of germline stem cells
+May Berenbaum;University of Illinois at Urbana-Champaign;Evolutionary Biology;1994;cytochrome P450, insect-plant interactions, Lepidoptera, phytochemicals, coevolution
+Henry Bourne;University of California, San Francisco;Medical Genetics, Hematology, and Oncology;1994;Chemotaxis, cell polarity, G proteins and GTPases
+Donald Pfaff;The Rockefeller University;Physiology and Pharmacology;1994;brain, cns, hormones, reproduction, aggression, arousal
+David Goeddel;The Column Group;Medical Genetics, Hematology, and Oncology;1994;biotechnology, molecular biology, drug discovery
+Pamela Matson;Stanford University;Environmental Sciences and Ecology;1994;biogeochemical cycling, land use change, sustainable agriculture, sustainability science
+Frederick Ausubel;Harvard University;Plant Biology;1994;arabidopsis thaliana, pseudomonas aeruginosa, caenorhabditis elegans, host-pathogen interactions, innate immunity
+Judith Klinman;University of California, Berkeley;Biochemistry;1994;
+Roger Nicoll;University of California, San Francisco;Cellular and Molecular Neuroscience;1994;
+Sankar Adhya;National Institutes of Health;Genetics;1994;
+David Housman;Massachusetts Institute of Technology;Genetics;1994;
+Michael Rosenfeld;University of California, San Diego;Medical Physiology and Metabolism;1994;
+Denis Baylor;Stanford University;Cellular and Molecular Neuroscience;1993;vision, visual transduction
+Larry Squire;University of California, San Diego;Systems Neuroscience;1993;structure and organization of mammalian memory
+Wayne Hendrickson;Columbia University;Biochemistry;1993;structural biology and genomics, crystallography, synchrotron radiation, HIV envelope, signal transduction, molecular chaperones
+Christine Guthrie;University of California, San Francisco;Genetics;1993;splicing, mRNA export, yeast genetics
+Paul Ahlquist;University of Wisconsin-Madison;Biochemistry;1993;molecular mechanisms of virus replication, gene expression, evolution, virus-host interaction and pathology
+George Vande Woude;Van Andel Research Institute;Medical Genetics, Hematology, and Oncology;1993;molecular and cellular biology, genetics, virology, invasion metastasis, met-hepatocyte growth factor, human malignancy
+Sydney Kustu;University of California, Berkeley;Genetics;1993;microbial physiology, channels for carbon dioxide and ammonium
+William Labov;University of Pennsylvania;Psychology;1993;linguistics
+Shinya Inoue;Marine Biological Laboratory;Cellular and Developmental Biology;1993;light microscopy, video microscopy, architectural dynamics in living cells, cell biology
+Francis Collins;National Institutes of Health;Medical Genetics, Hematology, and Oncology;1993;genomics, genetics, type 2 diabetes, progeria
+Paul Modrich;Duke University;Biochemistry;1993;DNA repair, DNA replication, genetic recombination
+Nancy Kleckner;Harvard University;Genetics;1993;chromosomes, meiosis, recombination, DNA, yeast, E.coli, physical biology
+Roger Kornberg;Stanford University;Biochemistry;1993;chromatin, transcription, biochemistry, biophysics
+Richard Klausner;The Column Group;Medical Genetics, Hematology, and Oncology;1993;cell and molecular biology
+Mario Molina;University of California, San Diego;Environmental Sciences and Ecology;1993;atmospheric chemistry, global environmental issues, air pollution
+Klaus Biemann;Massachusetts Institute of Technology;Biochemistry;1993;
+Olke Uhlenbeck;Northwestern University;Biochemistry;1993;
+James Rothman;Yale University;Cellular and Developmental Biology;1993;
+Bruce Baker;Howard Hughes Medical Institute;Genetics;1993;
+C. Thomas Caskey;The University of Texas-Houston Health Science Center;Medical Genetics, Hematology, and Oncology;1993;
+Ed Harlow;Constellation Pharmaceuticals;Medical Genetics, Hematology, and Oncology;1993;
+Sharon Long;Stanford University;Plant Biology;1993;
+Daniel Janzen;University of Pennsylvania;Environmental Sciences and Ecology;1992;tropical biodiversity management and inventory, caterpillars, parasitoids, DNA barcoding, Paz con la Naturaleza, Costa Rica
+William Greenough;University of Illinois at Urbana-Champaign;Systems Neuroscience;1992;plasticity (brain, myelin, and astrocyte), synaptogenesis, enriched environments, fragile X-syndrome, learning, memory, aging
+F. William Studier;Brookhaven National Laboratory;Genetics;1992;molecular genetics of bacteriophage T7, protein production in the T7 expression system, E. coli genome evolution
+Steven McKnight;The University of Texas Southwestern Medical Center at Dallas;Cellular and Developmental Biology;1992;metabolic cycling in mammals and yeast, pathways regulating the birth neurons in the mammalian brain
+Randy Schekman;University of California, Berkeley;Cellular and Developmental Biology;1992;mechanism and control of protein sorting and vesicular traffic in eukaryotic cells
+Raymond White;University of California, San Francisco;Medical Genetics, Hematology, and Oncology;1992;human genetics, genetics of alcoholism and addiction
+David Pilbeam;Harvard University;Evolutionary Biology;1992;human and ape evolution, climate, habitat, faunal change, history of paleoanthropology, evolutionary developmental biology
+Stanley Prusiner;University of California, San Francisco;Medical Genetics, Hematology, and Oncology;1992;genetics, prions, proteins
+Richard Losick;Harvard University;Cellular and Developmental Biology;1992;gene expression, development, microbiology
+Thomas Pollard;Yale University;Biophysics and Computational Biology;1992;cellular motility, cytokinesis, biophysics, cell biology
+Thomas Pollard;Yale University;Biophysics and Computational Biology;1992;cellular motility, cytokinesis, biophysics, cell biology
+Bert Vogelstein;Johns Hopkins University;Medical Genetics, Hematology, and Oncology;1992;cancer research, cancer genetics
+Harry Noller;University of California, Santa Cruz;Biochemistry;1992;
+JoAnne Stubbe;Massachusetts Institute of Technology;Biochemistry;1992;
+Robert Langer;Massachusetts Institute of Technology;Biophysics and Computational Biology;1992;
+Peter Vitousek;Stanford University;Environmental Sciences and Ecology;1992;
+Carol Gross;University of California, San Francisco;Genetics;1992;
+Bert O'Malley;Baylor College of Medicine;Medical Physiology and Metabolism;1992;
+Wylie Vale;Salk Institute for Biological Studies;Physiology and Pharmacology;1992;
+Stephen Heinemann;Salk Institute for Biological Studies;Systems Neuroscience;1992;
+Susan Leeman;Boston University;Physiology and Pharmacology;1991;The peptides Substance P and neurotensin, glycosylation of the NK1 Receptor, peptides in inflammation
+Paul Kaesberg;University of Wisconsin-Madison;Biochemistry;1991;structure and synthesis of small viruses
+Stuart Orkin;Harvard University;Medical Genetics, Hematology, and Oncology;1991;stem cell biology, hematopoiesis, development, leukemia, oncogenesis
+Maurice Burg;National Institutes of Health;Physiology and Pharmacology;1991;osmotic stress, oxidative stress, DNA damage, cell cycle, organic osmolytes, transcriptional regulation
+Arnold Levine;Institute for Advanced Study;Medical Genetics, Hematology, and Oncology;1991;oncology
+John Avise;University of California, Irvine;Evolutionary Biology;1991;molecular genetic markers, genetic parentage, mating patterns, geographic population structure, gene flow, hybridization
+Mario Capecchi;University of Utah;Cellular and Developmental Biology;1991;genetics, cancer biology, neurobiology, developmental biology, organogenesis, behavior evolutionary biology
+Robert Haselkorn;The University of Chicago;Plant Biology;1991;cyanobacteria, microbial genomes, microbial differentiation, fatty acid synthesis, obesity
+Jane Richardson;Duke University;Biophysics and Computational Biology;1991;3D macromolecular structure, all-atom contact analysis, structural bioinformatics
+Jane Richardson;Duke University;Biophysics and Computational Biology;1991;3D macromolecular structure, all-atom contact analysis, structural bioinformatics
+Stephen Harrison;Harvard University;Biophysics and Computational Biology;1991;
+James Spudich;Stanford University;Cellular and Developmental Biology;1991;
+Robert Tjian;Howard Hughes Medical Institute;Cellular and Developmental Biology;1991;
+H. Robert Horvitz;Massachusetts Institute of Technology;Genetics;1991;
+Darwin Prockop;The Texas A&M University System;Medical Genetics, Hematology, and Oncology;1991;
+Anthony Cerami;Warren Pharmaceuticals, Inc.;Medical Physiology and Metabolism;1991;
+A. James Hudspeth;The Rockefeller University;Physiology and Pharmacology;1991;
+David Rumelhart;Stanford University;Psychology;1991;
+Keith Yamamoto;University of California, San Francisco;Cellular and Developmental Biology;1990;transcriptional regulation, nuclear hormone receptors, signal transduction, gene networks
+Thomas Steitz;Yale University;Biochemistry;1990;structural biology, enzyme mechanism, replication, recombination, transcription, translation, DNA, RNA, protein
+Nina Fedoroff;U.S. Department of State;Plant Biology;1990;plants, Arabidopsis, stress, ozone, microarray, reactive oxygen species, microRNA, epigenetics, RNA silencing,transposon
+John Glomset;University of Washington;Medical Physiology and Metabolism;1990;membrane phosphoglycerides, highly unsaturated fatty acids, interfacial enzymes, synaptic membranes
+Salih Wakil;Baylor College of Medicine;Biochemistry;1990;fatty acid metabolism
+W. Knox Chandler;Yale University;Physiology and Pharmacology;1990;excitation-contraction coupling in skeletal muscle
+Esther Conwell;University of Rochester;Biophysics and Computational Biology;1990;DNA conduction and optical properties, polarons, conjugated polymers electrical and optical properties, semiconductors
+John Swets;BBN Corporation;Psychology;1990;diagnostic-decision making, measures of decision accuracy and efficacy, sensory functions, cognitive psychology
+John Gerhart;University of California, Berkeley;Cellular and Developmental Biology;1990;developmental biology
+Sidney Altman;Yale University;Biochemistry;1990;catalytic RNA
+Edward Korn;National Institutes of Health;Biochemistry;1990;Actin, myosin, chemotaxis, cytokinesis, Dictyostelium
+Paul Schimmel;The Scripps Research Institute;Biochemistry;1990;
+George Woodwell;Woods Hole Research Center;Environmental Sciences and Ecology;1990;
+M. T. Clegg;University of California, Irvine;Evolutionary Biology;1990;
+Howard Nash;National Institutes of Health;Genetics;1990;
+Louis Kunkel;Harvard University;Medical Genetics, Hematology, and Oncology;1990;
+Dale Purves;Duke University;Psychology;1989;vision, perception, color, brightness, illusions, audition, music, neurobiology
+Ricardo Miledi;University of California, Irvine;Cellular and Molecular Neuroscience;1989;Synaptic transmission, receptors, epilepsy, Alzheimer's disease, neurobiology
+David Eisenberg;University of California, Los Angeles;Biophysics and Computational Biology;1989;structural biology, amyloid structure, structural bioinformatics
+Ronald Evans;Salk Institute for Biological Studies;Medical Physiology and Metabolism;1989;nuclear hormone receptors, transcriptional control, metabolic syndrome, molecular physiology, steroid hormones
+Walter Fitch;University of California, Irvine;Evolutionary Biology;1989;molecular evolution, human influenza virus, viral migration
+William Sly;Saint Louis University;Medical Genetics, Hematology, and Oncology;1989;Lysosomal storage disorders, carbonic anhydrase deficiency
+Stanley Gartler;University of Washington;Medical Genetics, Hematology, and Oncology;1989;human genetics, epigenetics
+Barbara Partee;University of Massachusetts at Amherst;Psychology;1989;formal semantics, semantics and syntax, logic and language, integration of compositional and lexical semantics
+Allan Spradling;Carnegie Institution of Washington;Genetics;1989;drosophila genetics, oogenesis, stem cells, chromosomes
+Philip Hanawalt;Stanford University;Genetics;1989;DNA repair, transcription-coupled repair, carcinogenesis, aging, human genetic disease, UV-photobiology
+John Terborgh;Duke University;Environmental Sciences and Ecology;1989;cology, tropical ecology, tropical forests, plant-animal interactions, trophic relations, trophic cascades, biodiversity
+Christopher Walsh;Harvard University;Biochemistry;1989;chemical biology, antibiotics
+William Lennarz;Stony Brook University;Biochemistry;1989;biosynthesis, structure and function of glycoproteins
+K. E. van Holde;Oregon State University;Biophysics and Computational Biology;1989;biophysics, chromatin, single-molecule, oxygen transport, sedimentation
+K. E. van Holde;Oregon State University;Biophysics and Computational Biology;1989;biophysics, chromatin, single-molecule, oxygen transport, sedimentation
+Gordon Orians;University of Washington;Evolutionary Biology;1989;behavioral ecology habitat selection, foraging behavior, mate selection, structure of ecological communities
+Marc Kirschner;Harvard University;Cellular and Developmental Biology;1989;
+Michael Wigler;Cold Spring Harbor Laboratory;Medical Genetics, Hematology, and Oncology;1989;
+William Catterall;University of Washington;Physiology and Pharmacology;1989;
+David Dilcher;University of Florida;Plant Biology;1989;
+Ulric Neisser;Cornell University;Psychology;1989;
+James McGaugh;University of California, Irvine;Systems Neuroscience;1989;
+Robert Roeder;The Rockefeller University;Cellular and Developmental Biology;1988;transcriptional regulation during cell growth, differentiation, homeostasis, structure/function of transcriptional coactivators
+George Somero;Stanford University;Physiology and Pharmacology;1988;thermal biology, biochemical adaptation
+Eric Conn;University of California, Davis;Plant Biology;1988;the production of hydrogen cyanide by higher plants, intermediary metabolism of secondary (natural) plant products
+Robert Lefkowitz;Duke University;Medical Physiology and Metabolism;1988;receptors, cell signaling
+Carl Frieden;Washington University;Biophysics and Computational Biology;1988;protein folding, enzyme kinetics, fluorescence methods, fluorine NMR, intrinsically disordered proteins, ApoE proteins
+Eldon Newcomb;University of Wisconsin-Madison;Plant Biology;1988;plant cell biology
+Robert Gallo;University of Maryland at Baltimore;Medical Genetics, Hematology, and Oncology;1988;human retroviruses, HIV/AIDS, T cell biology and vaccines
+Charles Cantor;Sequenom, Inc.;Biophysics and Computational Biology;1988;genomics, bioinformatics, mass spectrometry, fluorescence, prenatal diagnostics, in vivo detection of RNA, epigenetics
+Fernando Nottebohm;The Rockefeller University;Systems Neuroscience;1988;ethology and neurobiology of vocal learning; neuronal replacement in adult brain
+Richard Palmiter;University of Washington;Cellular and Molecular Neuroscience;1988;dopamine, noradrenaline, neuropeptide Y, zinc, mouse behavior, drug addiction, Parkinson's disease
+Alfred Knudson;Fox Chase Cancer Center;Medical Genetics, Hematology, and Oncology;1988;cancer genetics and prevention, radiation induction, dose-rate effects
+John Roth;University of California, Davis;Genetics;1988;bacterial genetics and evolution
+Eugene Roberts;City of Hope National Medical Center;Cellular and Molecular Neuroscience;1988;
+Robert Dickinson;The University of Texas at Austin;Environmental Sciences and Ecology;1988;
+Carl Woese;University of Illinois at Urbana-Champaign;Environmental Sciences and Ecology;1988;
+Maurice Fox;Massachusetts Institute of Technology;Genetics;1988;
+Vincent Marchesi;Yale University;Medical Genetics, Hematology, and Oncology;1988;
+Frances Graham;University of Delaware;Psychology;1988;
+Morris Halle;Massachusetts Institute of Technology;Psychology;1988;
+Ann Graybiel;Massachusetts Institute of Technology;Systems Neuroscience;1988;
+Robert Wurtz;National Institutes of Health;Systems Neuroscience;1988;
+Thomas Cech;University of Colorado at Boulder;Biochemistry;1987;ribozymes, RNA catalysis, telomerase, telomere structure, structural biology, yeast molecular biology
+George Hess;Cornell University;Biochemistry;1987;protein-mediated reaction mechanisms, mechanism-based reagent development, rapid reaction techniques for membrane-bound proteins
+Seymour Klebanoff;University of Washington;Medical Genetics, Hematology, and Oncology;1987;phagocytic cell host defense in infectious diseases
+H. Ronald Kaback;University of California, Los Angeles;Physiology and Pharmacology;1987;membranes, membrane protein structure/function, membrane transport proteins, membrane vesicles, bioenergetics
+George Stark;Cleveland Clinic Foundation;Biochemistry;1987;interferon, NFkB, signal transduction, insertional mutagenesis, STATs
+Robert Sokal;Stony Brook University;Evolutionary Biology;1987;genetic variation in human populations, European ethnohistory, biological statistics, spatial statistics
+Wyatt Anderson;University of Georgia;Evolutionary Biology;1987;evolutionary genetics, mating behavior and its fitness consequences, natural selection, science education
+Harvey Lodish;Massachusetts Institute of Technology;Cellular and Developmental Biology;1987;Erythropoiesis, hematopoietic stem cells, adipokines, adiponectin, expression cloning of receptors, signal transduction proteins
+M. Daniel Lane;Johns Hopkins University;Biochemistry;1987;
+Laszlo Lorand;Northwestern University;Biochemistry;1987;
+Paul Talalay;Johns Hopkins University;Biochemistry;1987;
+Donald Crothers;Yale University;Biophysics and Computational Biology;1987;
+Ralph Brinster;University of Pennsylvania;Cellular and Developmental Biology;1987;
+Leland Hartwell;Fred Hutchinson Cancer Research Center;Cellular and Developmental Biology;1987;
+Thomas Reese;National Institutes of Health;Cellular and Molecular Neuroscience;1987;
+Gerald Rubin;Howard Hughes Medical Institute;Genetics;1987;
+Clay Armstrong;University of Pennsylvania;Physiology and Pharmacology;1987;
+Philip Needleman;Washington University;Physiology and Pharmacology;1987;
+Charles Heiser;Indiana University;Plant Biology;1987;
+Yuet Wai Kan;University of California, San Francisco;Medical Genetics, Hematology, and Oncology;1986;studies on the genetics, diagnosis and treatment of blood diseases
+Brian Matthews;University of Oregon;Biophysics and Computational Biology;1986;protein crystallography
+Leonard Lerman;Massachusetts Institute of Technology;Genetics;1986;molecular genetics
+Liane Russell;Oak Ridge National Laboratory;Genetics;1986;mammalian genetics, mutagenesis
+William Daughaday;University of California, Irvine;Medical Physiology and Metabolism;1986;human GH and IGFI
+John Carbon;University of California, Santa Barbara;Biochemistry;1986;fungal molecular biology, centromeres, chromosome structure-function, yeasts, cell division
+Bertil Hille;University of Washington;Cellular and Molecular Neuroscience;1986;Excitable cells, ion channels, channel modulation, calcium signaling, G-protein coupled receptors, neuron and sperm biophysics
+Michael Chamberlin;University of California, Berkeley;Biochemistry;1986;enzymatic synthesis of nucleic acids in bacterial and viral systems; protein-nucleic acid interactions
+James Wang;Harvard University;Biochemistry;1986;DNA and DNA topoisomerases, structural and functional studies
+Roger Unger;The University of Texas Southwestern Medical Center at Dallas;Medical Physiology and Metabolism;1986;diabetes, obesity, metabolic syndrome, lipotoxicity
+Peter Duesberg;University of California, Berkeley;Cellular and Developmental Biology;1986;
+Rodolfo Llinas;New York University;Cellular and Molecular Neuroscience;1986;
+Robert Paine;University of Washington;Environmental Sciences and Ecology;1986;
+Ellis Englesberg;University of California, Santa Barbara;Genetics;1986;
+Martin Gellert;National Institutes of Health;Genetics;1986;
+Philip Majerus;Washington University;Medical Genetics, Hematology, and Oncology;1986;
+George Todaro;Targeted Growth, Inc.;Medical Genetics, Hematology, and Oncology;1986;
+Emilio Bizzi;Massachusetts Institute of Technology;Systems Neuroscience;1986;
+Fred Sherman;University of Rochester;Genetics;1985;yeast genetics, molecular biology of yeast, cytochrome c
+Richard Dickerson;University of California, Los Angeles;Biophysics and Computational Biology;1985;X-ray structures of proteins, DNA, base-specific functional DNA/protein complexes, molecular evolution
+Alfred Gilman;The Cancer Prevention and Research Institute of Texas;Physiology and Pharmacology;1985;signal transduction, signal-transducing G proteins, adenylyl cyclases
+Ignacio Tinoco;University of California, Berkeley;Biophysics and Computational Biology;1985;RNA, force spectroscopy
+Ignacio Tinoco;University of California, Berkeley;Biophysics and Computational Biology;1985;RNA, force spectroscopy
+Martha Vaughan;National Institutes of Health;Medical Physiology and Metabolism;1985;regulation of cell metabolism and membrane trafficking/GTPases/signal transduction
+Masakazu Konishi;California Institute of Technology;Systems Neuroscience;1985;neuroethology
+Thomas Maniatis;Columbia University;Medical Genetics, Hematology, and Oncology;1985;mechanisms of gene expression, molecular neuroscience, neurodegenerative diseases
+Robert Rescorla;University of Pennsylvania;Psychology;1985;learning, experimental psychology, Pavlovian conditioning
+Leon Rosenberg;Princeton University;Medical Genetics, Hematology, and Oncology;1985;inherited metabolic diseases, human gene therapy
+Eric Davidson;California Institute of Technology;Cellular and Developmental Biology;1985;gene regulation development evolution
+Paul Ehrlich;Stanford University;Environmental Sciences and Ecology;1985;evolution, coevolution, ecology, human ecology, population biology, cultural evolution, bioethics, butterflies
+W. Wallace Cleland;University of Wisconsin-Madison;Biochemistry;1985;enzyme kinetics and mechanism
+Pasko Rakic;Yale University;Cellular and Molecular Neuroscience;1985;developmental neurobiology, cellular/molecular mechanisms of neuronal proliferation, detremination, migration, synaptogenesis
+John Abelson;California Institute of Technology;Biochemistry;1985;d
+Robert Weinberg;Massachusetts Institute of Technology;Medical Genetics, Hematology, and Oncology;1985;acquisition of invasive and metastatic traits by cancer cells, recruitment of stromal cells by human carcinomas
+Herbert Boyer;University of California, San Francisco;Biochemistry;1985;
+David Sabatini;New York University;Cellular and Developmental Biology;1985;
+Melvin Simon;California Institute of Technology;Genetics;1985;
+George Sperling;University of California, Irvine;Psychology;1985;
+Michael Rossmann;Purdue University;Biophysics and Computational Biology;1984;structural biology, X-ray crystallography, electron microscopy, viruses, evolution, protein folding
+Michael Rossmann;Purdue University;Biophysics and Computational Biology;1984;structural biology, X-ray crystallography, electron microscopy, viruses, evolution, protein folding
+Russell Doolittle;University of California, San Diego;Biochemistry;1984;protein structure and evolution, fibrinogen and fibrin
+Gerald Fischbach;The Simons Foundation;Cellular and Molecular Neuroscience;1984;Neuroscience, medical education, biomedical research
+Edward Kravitz;Harvard University;Systems Neuroscience;1984;neuroethology, behavioral genetics, aggression, neurohormones, drosophila
+Howard Berg;Harvard University;Biophysics and Computational Biology;1984;motile behavior of bacteria: chemotaxis, flagellar rotation, gliding, swarming
+James Valentine;University of California, Berkeley;Evolutionary Biology;1984;marine paleoecology and macroecology, origin and early evolution of major animal groups
+Janet Rowley;The University of Chicago;Medical Genetics, Hematology, and Oncology;1984;cytogenetic and molecular genetic analysis of human leukemia
+William Rutter;Synergenics, LLC;Biochemistry;1984;biotechnology, detection, prevention, and treatment of infectious and inflammatory diseases by macromolecules
+Mortimer Mishkin;National Institutes of Health;Systems Neuroscience;1984;behavioral and cognitive neuroscience in humans and monhuman primates
+Lubert Stryer;Stanford University;Biophysics and Computational Biology;1984;
+Lubert Stryer;Stanford University;Biophysics and Computational Biology;1984;
+Marilyn Gist Farquhar;University of California, San Diego;Cellular and Developmental Biology;1984;
+Gordon Sato;Manzanar Project Foundation;Cellular and Developmental Biology;1984;
+Edward Scolnick;The Broad Institute;Cellular and Molecular Neuroscience;1984;
+Thomas Schoener;University of California, Davis;Environmental Sciences and Ecology;1984;
+Harold Varmus;National Institutes of Health;Medical Genetics, Hematology, and Oncology;1984;
+Gerhard Giebisch;Yale University;Physiology and Pharmacology;1984;
+Ronald Davis;Stanford University;Genetics;1983;yeast functional genomics, large-scale sequencing
+Mary-Lou Pardue;Massachusetts Institute of Technology;Genetics;1983;telomeres, transposable elements, Drosophila genetics, nuclear organization, chromosomes
+Jean Wilson;The University of Texas Southwestern Medical Center at Dallas;Medical Physiology and Metabolism;1983;sexual differentiation, androgen action, reproduction, endocrinology, marsupial physiology
+Lynn Margulis;University of Massachusetts at Amherst;Evolutionary Biology;1983;Proterozoic evolution, origin of eukaryotes, cytoplasmic heredity, symbiogenesis
+Joan Steitz;Yale University;Biochemistry;1983;gene expression in metazoan cells, multiple roles of RNA, RNA processing
+Charles Richardson;Harvard University;Biochemistry;1983;DNA replication, bacteriophage T7, helicase, primase, DNA polymerase, DNA binding protein
+Dominick Purpura;Albert Einstein College of Medicine of Yeshiva University;Systems Neuroscience;1983;Cortical development, dendrites, synapses, neurotransmitters
+Minor Coon;University of Michigan;Biochemistry;1983;biological catalysis/regulation, cytochrome P450, drug metabolism, oxygen/peroxide activation
+Gunter Blobel;The Rockefeller University;Cellular and Developmental Biology;1983;
+R. L. Erikson;Harvard University;Cellular and Developmental Biology;1983;
+Phillip Sharp;Massachusetts Institute of Technology;Cellular and Developmental Biology;1983;
+Richard Axel;Columbia University;Medical Genetics, Hematology, and Oncology;1983;
+Sherman Weissman;Yale University;Medical Genetics, Hematology, and Oncology;1983;
+Richard Havel;University of California, San Francisco;Medical Physiology and Metabolism;1983;
+Herbert Weissbach;Florida Atlantic University;Biochemistry;1982;role of the methionine sulfoxide reductase system in protecting cells against oxidative damage, aging and age related diseases
+Margaret Davis;University of Minnesota, Minneapolis;Environmental Sciences and Ecology;1982;paleoecology, forest ecology, forest history, Quaternary environments, plant response to climate
+Charles Stevens;Salk Institute for Biological Studies;Cellular and Molecular Neuroscience;1982;neuroscience theory, synapse structure, and function
+Edwin Furshpan;Harvard University;Cellular and Molecular Neuroscience;1982;neuroscience education, outreach
+Phillips Robbins;Boston University;Biochemistry;1982;microbial, parasite, and mammalian glycobioloby
+E. Donnall Thomas;Fred Hutchinson Cancer Research Center;Medical Genetics, Hematology, and Oncology;1982;marrow transplantation, immunology, hematology
+Daniel Steinberg;University of California, San Diego;Medical Physiology and Metabolism;1982;lipoproteins, macrophage biology, atherosclerosis
+Saul Sternberg;University of Pennsylvania;Psychology;1982;human experimental psychology, mathematical psychology
+Stuart Kornfeld;Washington University;Medical Genetics, Hematology, and Oncology;1982;glycobiology, cell biology, lysosomal storage disorders
+Harold Mooney;Stanford University;Environmental Sciences and Ecology;1982;global ecology, invasive species, industrialized animal production systems
+Allan Conney;Rutgers, The State University of New Jersey, New Brunswick;Physiology and Pharmacology;1982;factors influencing the metabolism of drugs, carcinogens and steroid hormones, cancer chemoprevention
+Pedro Cuatrecasas;University of California, San Diego;Medical Physiology and Metabolism;1982;drug discovery and development, affinity chromatography, hormone receptor signal transduction
+Ira Pastan;National Institutes of Health;Medical Genetics, Hematology, and Oncology;1982;cancer treatment, antibodies, immunotoxins, gene discovery
+Quentin Gibson;Rice University;Biochemistry;1982;
+Leonard Herzenberg;Stanford University;Genetics;1982;
+Thressa Stadtman;National Institutes of Health;Biochemistry;1981;selenium biochemistry, anaerobic enzyme systems, redox reactions
+Joseph Hoffman;Yale University;Physiology and Pharmacology;1981;red cell physiology, NA pump, membrane transport
+Irwin Fridovich;Duke University;Biochemistry;1981;oxygen toxicity, superoxide, superoxide dismutases, oxidative stress
+Michael Bennett;Albert Einstein College of Medicine of Yeshiva University;Cellular and Molecular Neuroscience;1981;NMDA receptors, gap junctions, delayed neurodegeneration after global ischemia
+Michael Posner;University of Oregon;Psychology;1981;neural networks of attention and cognition
+Gerald Fink;Massachusetts Institute of Technology;Genetics;1981;molecular genetics, gene regulation, host-pathogen interactions, fungal morphogenesis and metabolism
+Aaron Shatkin;Center for Advanced Biotechnology and Medicine;Cellular and Developmental Biology;1981;eukaryotic cellular and viral mRNA synthesis, 5'capping and translation
+Gene Likens;Cary Institute of Ecosystem Studies;Environmental Sciences and Ecology;1981;ecosystem ecology, biogeochemistry, limnology, aquatic ecology, air pollution, acid rain
+Bruce Alberts;University of California, San Francisco;Biochemistry;1981;DNA replication, science policy, science
+Igor Dawid;National Institutes of Health;Cellular and Developmental Biology;1981;developmental biology, gastrulation, Xenopus, zebrafish
+Daniel Branton;Harvard University;Biophysics and Computational Biology;1981;cell biology, molecular biology, nanopore probes
+Edward Frieman;University of California, San Diego;Environmental Sciences and Ecology;1981;
+David Botstein;Princeton University;Genetics;1981;
+David Kipnis;Washington University;Medical Physiology and Metabolism;1981;
+Solomon Snyder;Johns Hopkins University;Cellular and Molecular Neuroscience;1980;neuropharmacology, molecular neuroscience, psychopharmacology, neurotransmitters
+Louis Sokoloff;National Institutes of Health;Cellular and Molecular Neuroscience;1980;neurochemistry, cerebral energy metabolism, functional brain imaging
+Torsten Wiesel;The Rockefeller University;Systems Neuroscience;1980;neural basis of visual perception, structure and function of the mammalian visual cortex
+Hamilton Smith;The J. Craig Venter Institute;Biochemistry;1980;molecular biology, synthetic biology, genomics
+Andre Jagendorf;Cornell University;Plant Biology;1980;mechanisms by which plants respond to abiotic stress, cold, salt and osmotic stresses
+Robert Baldwin;Stanford University;Biophysics and Computational Biology;1980;mechanism of protein folding, role of peptide backbone solvation in the energetics of protein folding
+Michael Brown;The University of Texas Southwestern Medical Center at Dallas;Medical Physiology and Metabolism;1980;human genetics, cholesterol, membranes, lipids, atherosclerosis
+Francisco Ayala;University of California, Irvine;Evolutionary Biology;1980;evolution, genetics, population biology, origin of species, malaria, parasitic protozoa, epidemiology
+M. M. Green;University of California, Davis;Genetics;1980;drosophila mutation, fine structure, evolution
+Donald Helinski;University of California, San Diego;Genetics;1980;bacterial plasmid replication and stable maintenance
+Earl Davie;University of Washington;Biochemistry;1980;
+Stanley Cohen;Vanderbilt University;Cellular and Developmental Biology;1980;
+J. Michael Bishop;University of California, San Francisco;Medical Genetics, Hematology, and Oncology;1980;
+Joseph Goldstein;The University of Texas Southwestern Medical Center at Dallas;Medical Genetics, Hematology, and Oncology;1980;
+Charles Park;Vanderbilt University;Physiology and Pharmacology;1980;
+Julian Hochberg;Columbia University;Psychology;1980;
+Olle Bjorkman;Carnegie Institution of Washington;Plant Biology;1979;photosynthesis, photoprotection, chlorophyll fluorescence, carotenoids, physiological ecology, extreme environments, mangroves
+Richard Sidman;Harvard University;Cellular and Molecular Neuroscience;1979;mouse neurogenetics, neural stem cells, mouse and human brain development, digital brain atlases
+Maxine Singer;Carnegie Institution of Washington;Biochemistry;1979;mammalian retrotransposons, science education k-12
+Jared Diamond;University of California, Los Angeles;Environmental Sciences and Ecology;1979;geography, biogeography, birds, history, human societies
+Irwin Rose;University of California, Irvine;Biochemistry;1979;enzymologist
+Ronald Estabrook;The University of Texas Southwestern Medical Center at Dallas;Biochemistry;1979;Drug metabolism, biochemical toxicology, steroid hormone synthesis, biological electron transport, oxygenases
+Philip Leder;Harvard University;Cellular and Developmental Biology;1979;cancer, genetics
+Hector DeLuca;University of Wisconsin-Madison;Biochemistry;1979;
+Alfred Redfield;Brandeis University;Biophysics and Computational Biology;1979;
+Alfred Redfield;Brandeis University;Biophysics and Computational Biology;1979;
+W. A. Hagins;National Institutes of Health;Cellular and Developmental Biology;1979;
+Stanley Cohen;Stanford University;Genetics;1979;
+Mark Ptashne;Memorial Sloan-Kettering Cancer Center;Genetics;1979;
+Mark Rosenzweig;University of California, Berkeley;Psychology;1979;
+David Davies;National Institutes of Health;Biophysics and Computational Biology;1978;X-ray diffraction of toll-like receptors, HIV integrase and various other proteins
+David Green;University of Florida;Psychology;1978;psychoacoustics, detection theory
+Emanuel Epstein;University of California, Davis;Plant Biology;1978;Plant mineral nutrition, ion transport, salt relations of plants, development of salt-tolerant crops, silicon in plant biology
+Paul Greengard;The Rockefeller University;Cellular and Molecular Neuroscience;1978;neurobiology, signal transduction, Parkinsonism, Alzheimer's disease, schizophrenia, psychiatry, neurology, depression
+Peter von Hippel;University of Oregon;Biochemistry;1978;mechanisms of RNA transcription and DNA replication, physical biochemistry, protein and nucleic acid structure and function
+Howard Green;Harvard University;Cellular and Developmental Biology;1978;human embryonic stem cells and their differentiation into somatic cells types, especially the keratinocyte
+Andrew Schally;University of Miami Miller School of Medicine;Medical Genetics, Hematology, and Oncology;1978;endocrine oncology, tumor inhibitory effects of analogs of hypothalamic hormones, cancer
+Julius Adler;University of Wisconsin-Madison;Biochemistry;1978;
+Masayasu Nomura;University of California, Irvine;Biochemistry;1978;
+Harry Rubin;University of California, Berkeley;Medical Genetics, Hematology, and Oncology;1978;
+Patrick Suppes;Stanford University;Psychology;1978;
+Peter Raven;Missouri Botanical Garden;Environmental Sciences and Ecology;1977;plant systematics and evolution, biogeography, conservation, ecology, sustainability
+Elizabeth Neufeld;University of California, Los Angeles;Biochemistry;1977;pathogenesis and treatment of lysosomal storage diseases
+Floyd Bloom;The Scripps Research Institute;Cellular and Molecular Neuroscience;1977;neuropharmacology, substance abuse, genetic basis of brain disease
+Evelyn Witkin;Rutgers, The State University of New Jersey, New Brunswick;Genetics;1977;mutagenesis, DNA repair, E. coli SOS response, ultraviolet light
+Roger Shepard;Stanford University;Psychology;1977;mental laws, spatial, scientific and musical cognition, perception and imagery, thought experiments, multidimensional scaling
+Richard Thompson;University of Southern California;Systems Neuroscience;1977;Mammalian, brain substrates of learning and memory, neurophysiology, neuroanatomy, behavior
+Robert Perry;Fox Chase Cancer Center;Cellular and Developmental Biology;1977;gene expression, ribosomes, transcription
+Gerald Wogan;Massachusetts Institute of Technology;Physiology and Pharmacology;1977;environmental and chemical carcinogenesis, molecular epidemiology of cancer
+I. Robert Lehman;Stanford University;Biochemistry;1977;biochemistry, enzymology, DNA, herpes viruses
+Herbert Tabor;National Institutes of Health;Biochemistry;1977;
+H. E. Wright;University of Minnesota, Minneapolis;Environmental Sciences and Ecology;1977;
+John Dowling;Harvard University;Systems Neuroscience;1976;structure, function and development of the retina, neuroscience
+Hilary Koprowski;Thomas Jefferson University;Medical Genetics, Hematology, and Oncology;1976;neurovirology, plant biotechnology, rabies and multiple sclerosis
+Arno Motulsky;University of Washington;Medical Genetics, Hematology, and Oncology;1976;human and medical genetics, pharmacogenetics and ecogenetics, genetics of coronary heart disease, color vision genetics
+John Preer;Indiana University;Genetics;1976;genetucs if paramecium
+Franklin Stahl;University of Oregon;Genetics;1976;genetic recombination, crossing over, gene conversion, meiosis
+David Hogness;Stanford University;Cellular and Developmental Biology;1976;developmental biology, genetics, molecular biology, Drosophila melanogaster
+Gary Felsenfeld;National Institutes of Health;Biochemistry;1976;
+Robert Schimke;Stanford University;Biochemistry;1976;
+Walter Gilbert;BioVentures Investors;Biophysics and Computational Biology;1976;
+Francis Ruddle;Yale University;Cellular and Developmental Biology;1976;
+Baruch Blumberg;Fox Chase Cancer Center;Medical Genetics, Hematology, and Oncology;1975;virology, human population genetics, astrobiology
+Leon Cooper;Brown University;Systems Neuroscience;1975;Synaptic and cortical plasticity, memory, learning, BCM (Bienenstock, Cooper, and Munro) learning rule, learning algorithms
+Donald Steiner;The University of Chicago;Biochemistry;1975;protein precursor processing mechanisms, peptide hormone biosynthesis, diabetes and metabolism
+Clinton Ballou;University of California, Berkeley;Biochemistry;1975;metabolism of carbohydrates, polysaccharides, glycolipids, lipopolysaccharides, glycoproteins, microbial cell walls structure
+Roscoe Brady;National Institutes of Health;Biochemistry;1975;hereditary metabolic storage disorders, enzyme replacement therapy, gene therapy
+Robert Hill;Duke University;Biochemistry;1975;
+Rosalyn Yalow;Veterans Affairs Medical Center;Medical Physiology and Metabolism;1975;
+Jerard Hurwitz;Memorial Sloan-Kettering Cancer Center;Biochemistry;1974;studies on DNA replication
+Estella Leopold;University of Washington;Environmental Sciences and Ecology;1974;paleobotany/pollen and biogeography of the Cenozoic, North America and E. Asia, conservation and historical paleoecology
+Roger Guillemin;Salk Institute for Biological Studies;Medical Physiology and Metabolism;1974;neuroendocrinology, somatostatin, GHRH, GnRH, TRH, activin , FGF, computer-painting-digital fine art printing
+E. Peter Geiduschek;University of California, San Diego;Biochemistry;1974;molecular biology; virology (bacterial), enzymology of transcription, transcriptional regulation
+John Clements;University of California, San Francisco;Medical Physiology and Metabolism;1974;lung surfactant, lipid metabolism, respiratory physiology, membrane structure and function
+Robert Shulman;Yale University;Biophysics and Computational Biology;1974;in vivo magnetic resonance spectroscopy and metabolism
+Robert Shulman;Yale University;Biophysics and Computational Biology;1974;in vivo magnetic resonance spectroscopy and metabolism
+Dan Lindsley;University of California, San Diego;Genetics;1974;Drosophila genetics, spermatogenesis, chromosome biology
+Richard Atkinson;University of California, San Diego;Psychology;1974;cognitive science, mathematical psychology, applied mathematics
+Eugene Braunwald;Harvard University;Medical Physiology and Metabolism;1974;cardiovascular science, clinical trials
+Winslow Briggs;Carnegie Institution of Washington;Plant Biology;1974;biochemistry and biophysics of plant photoreceptors, plant photophysiology
+David Prescott;University of Colorado at Boulder;Cellular and Developmental Biology;1974;
+Eric Kandel;Columbia University;Cellular and Molecular Neuroscience;1974;
+Richard Alexander;University of Michigan;Evolutionary Biology;1974;
+Elwood Jensen;University of Cincinnati;Medical Physiology and Metabolism;1974;
+James Wyngaarden;Duke University;Medical Physiology and Metabolism;1974;
+Richard Held;Massachusetts Institute of Technology;Psychology;1973;vision, sensorimotor coordination, development
+Donald Brown;Carnegie Institution of Washington;Cellular and Developmental Biology;1973;thyroid hormone controlled developmental changes that occur when an amphibian tadpole turns into a frog
+James Darnell;The Rockefeller University;Cellular and Developmental Biology;1973;signal transduction, gene regulation
+Edmond Fischer;University of Washington;Biochemistry;1973;regulation of cellular processes by protein phosphorylation
+Andrew Benson;University of California, San Diego;Plant Biology;1973;nutrition, diabetes, memoirs, long chain polyunstaturated fats
+Kurt Isselbacher;Harvard University;Medical Physiology and Metabolism;1973;medicine (gastroenterology, oncology), biochemistry, cell biology
+J. T. Bonner;Princeton University;Evolutionary Biology;1973;evolution and development, social amoebae (cellular slime molds)
+Gordon Hammes;Duke University;Biophysics and Computational Biology;1973;Enzyme kinetics and mechanism, single-molecule fluorescence microscopy
+Richard Setlow;Brookhaven National Laboratory;Genetics;1973;DNA damage/repair, factors influencing malignant melanoma, dose-response relations, biologic hazards of space radiations
+Beatrice Mintz;Fox Chase Cancer Center;Genetics;1973;cancer models in mice, malignant melanoma, melanocyte development
+Paul Marks;Memorial Sloan-Kettering Cancer Center;Medical Genetics, Hematology, and Oncology;1973;cancer biology, epigenetics, histone deacetylase inhibitors, development of HDAC inhibitors
+Lester Reed;The University of Texas at Austin;Biochemistry;1973;
+Frederick Bormann;Yale University;Environmental Sciences and Ecology;1973;
+Robert Forster;University of Pennsylvania;Physiology and Pharmacology;1973;
+Gordon Bower;Stanford University;Psychology;1973;
+Roy Britten;California Institute of Technology;Evolutionary Biology;1972;protein evolution, mobile elements and their contribution to coding sequences
+R. Duncan Luce;University of California, Irvine;Psychology;1972;fundamental measurement, utility theory, global psychophysics, mathematical behavioral sciences
+P. Roy Vagelos;Merck & Co., Inc.;Biochemistry;1972;fatty acid and lipid metabolism, drug discovery and development
+Donald Kennedy;Stanford University;Environmental Sciences and Ecology;1972;environmental science and policy
+Joseph Gall;Carnegie Institution of Washington;Cellular and Developmental Biology;1972;cell biology of the nucleus
+Alexander Leaf;Harvard University;Medical Physiology and Metabolism;1972;cardiac arrhythmias, sudden cardiac death, preventive cardiology, nutrition
+Saul Roseman;Johns Hopkins University;Biochemistry;1972;carbohydrate transport in bacteria, chitin catabolism
+Bruce Ames;University of California, Berkeley;Biochemistry;1972;
+William Wood;University of Colorado at Boulder;Genetics;1972;
+A. Noam Chomsky;Massachusetts Institute of Technology;Psychology;1972;
+Alan Garen;Yale University;Genetics;1971;therapy of cancer and ocular disease, gene regulation, retroelements
+Allan Campbell;Stanford University;Genetics;1971;prokaryotic genetics
+Oliver Smithies;The University of North Carolina at Chapel Hill;Genetics;1971;
+Irving London;Massachusetts Institute of Technology;Medical Genetics, Hematology, and Oncology;1971;
+Alexander Rich;Massachusetts Institute of Technology;Biochemistry;1970;nucleic acid structure and function
+Paul Boyer;University of California, Los Angeles;Biochemistry;1970;enzyme structure and mechanism, rotational catalysis by the ATP synthase
+Ruth Patrick;The Academy of Natural Sciences;Environmental Sciences and Ecology;1970;ecosystem approach, diatoms, phycology
+A. Dale Kaiser;Stanford University;Genetics;1970;
+Boris Magasanik;Massachusetts Institute of Technology;Genetics;1969;regulation of gene expression in bacteria and yeast
+Gerald Edelman;The Scripps Research Institute;Biochemistry;1969;
+S. J. Singer;University of California, San Diego;Cellular and Developmental Biology;1969;
+Thomas Eisner;Cornell University;Evolutionary Biology;1969;
+Edward Wilson;Harvard University;Evolutionary Biology;1969;
+Arthur Pardee;Harvard University;Cellular and Developmental Biology;1968;molecular biology, cancer, biochemistry, cell biology
+M. S. Meselson;Harvard University;Genetics;1968;genetics, molecular evolution
+Howard Schachman;University of California, Berkeley;Biochemistry;1968;
+Robert Sinsheimer;University of California, Santa Barbara;Biochemistry;1967;microbiology, biochemistry
+Seymour Cohen;Marine Biological Laboratory;Biochemistry;1967;biochemical virology, history of science before 1850
+Paul Berg;Stanford University;Cellular and Developmental Biology;1966;stem cell research policy
+Charles Yanofsky;Stanford University;Genetics;1966;RNA based transcription attenuation mechanisms in bacteria
+Ray Owen;California Institute of Technology;Genetics;1966;immunogenetics
+H. Gobind Khorana;Massachusetts Institute of Technology;Biochemistry;1966;
+Vernon Mountcastle;Johns Hopkins University;Systems Neuroscience;1966;
+Charles Michener;University of Kansas;Evolutionary Biology;1965;morphology and behavior of bees, origin and evolution of social behavior in insects
+Eugene Kennedy;Harvard University;Biochemistry;1964;
+Donald Glaser;University of California, Berkeley;Systems Neuroscience;1962;psychophysics, theory, human vision, illusory motion, excitable neuronal arrays
+George Miller;Princeton University;Psychology;1962;lexical resources for computational linguistics
+James Watson;Cold Spring Harbor Laboratory;Genetics;1962;DNA and genetics
+Renato Dulbecco;Salk Institute for Biological Studies;Cellular and Developmental Biology;1961;genes important in the normal development of breast and origin and progression of tumors of the breast
+James Crow;University of Wisconsin-Madison;Genetics;1961;experimental and theoretical population genetics, human mutation rate
+William Lipscomb;Harvard University;Biophysics and Computational Biology;1961;

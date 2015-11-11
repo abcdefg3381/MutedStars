@@ -1,0 +1,112 @@
+<!-- Project Maggie - SuperStar - LIU Xiaofan -->
+<project name="SuperStar" default="run" basedir=".">
+
+	<import file="../Maggie/build.xml" />
+
+	<!-- Name of project and version -->
+	<property name="proj.name" value="SuperStar" />
+	<property name="version" value="1.1" />
+
+	<!-- Global properties for this build -->
+	<property name="src.java.dir" value="src" />
+	<property name="src.etc.dir" value="src/etc" />
+	<property name="build.dir" value="build" />
+	<property name="maggie.build" value="../Maggie/build" />
+
+	<!-- Classpath declaration -->
+	<path id="build.classpath">
+		<fileset dir="${build.lib.dir}">
+			<include name="**/*.jar" />
+			<include name="**/*.zip" />
+		</fileset>
+	</path>
+
+	<!-- Useful shortcuts -->
+	<patternset id="meta.files">
+		<include name="**/*.xml" />
+		<include name="**/*.properties" />
+	</patternset>
+
+	<patternset id="image.files">
+		<include name="**/*.gif" />
+	</patternset>
+
+	<!-- Clean up -->
+	<target name="clean" description="Clean the build directory">
+		<delete dir="${build.dir}" />
+		<mkdir dir="${build.dir}" />
+	</target>
+
+	<!-- call Maggie to compile and copy files here - depends="clean"-->
+	<target name="maggie" description="Call Maggie to build">
+		<antcall target="maggie.preamble">
+		</antcall>
+		<copy todir="${build.dir}">
+			<fileset dir="${maggie.build}" />
+		</copy>
+	</target>
+
+	<!-- Compile Java source -->
+	<target name="compile">
+		<mkdir dir="${build.dir}" />
+		<javac srcdir="${src.java.dir}" destdir="${build.dir}" classpathref="maggie.classpath" />
+	</target>
+
+	<!-- Copy metadata to build classpath -->
+	<target name="copymetafiles">
+		<copy todir="${build.dir}">
+			<fileset dir="${src.java.dir}">
+				<patternset refid="image.files" />
+			</fileset>
+		</copy>
+		<copy todir="${build.dir}">
+			<fileset dir="${src.etc.dir}">
+				<patternset refid="meta.files" />
+			</fileset>
+		</copy>
+	</target>
+	<!-- Run SuperStar main programme -->
+	<target name="run" depends="maggie, compile, copymetafiles" description="Build and run SuperStar">
+		<java fork="true" maxmemory="512m" classname="superstar.MainProgram" classpathref="maggie.classpath">
+			<classpath path="${build.dir}" />
+		</java>
+	</target>
+	
+	<!-- Run SuperStar ExportDatabase -->
+		<target name="expDB" depends="maggie, compile, copymetafiles" description="Build and run SuperStar">
+			<java fork="true" maxmemory="512m" classname="superstar.ExportDatabase" classpathref="maggie.classpath">
+				<classpath path="${build.dir}" />
+			</java>
+		</target>
+	
+	<!-- Run SuperStar test programme -->
+	<target name="harvest" depends="maggie, compile, copymetafiles" description="Retrieve Data from Entrez">
+		<java fork="true" maxmemory="2048m" classname="superstar.logic.preload.HarvestPubmedData" classpathref="maggie.classpath">
+			<classpath path="${build.dir}" />
+		</java>
+	</target>
+
+	<!-- Run SuperStar load programme -->
+	<target name="load" depends="maggie, compile, copymetafiles" description="Build and test SuperStar">
+		<java fork="true" maxmemory="1024m" classname="superstar.logic.preload.LoadSuperStars" classpathref="maggie.classpath">
+			<classpath path="${build.dir}" />
+		</java>
+	</target>
+
+	<!-- Run SuperStar test programme -->
+	<target name="test" depends="maggie, compile, copymetafiles" description="Build and test SuperStar">
+		<java fork="true" maxmemory="512m" classname="tests.DBTest" classpathref="maggie.classpath">
+			<classpath path="${build.dir}" />
+		</java>
+	</target>
+
+	<!-- Start the HSQL DB browser tool -->
+	<target name="dbmanager" depends="maggie" description="Start HSQL DB manager">
+		<java classname="org.hsqldb.util.DatabaseManagerSwing" fork="yes" classpathref="maggie.classpath" failonerror="true">
+			<arg value="-url" />
+			<arg value="jdbc:hsqldb:hsql://localhost/SuperStar" />
+			<arg value="-driver" />
+			<arg value="org.hsqldb.jdbcDriver" />
+		</java>
+	</target>
+</project>
